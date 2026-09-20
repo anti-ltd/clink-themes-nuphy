@@ -31,7 +31,8 @@ class ManifestTests(unittest.TestCase):
             self.assertEqual(hashlib.sha256(raw).hexdigest(), entry['asset']['sha256'])
             self.assertEqual(len(raw), entry['asset']['byteCount'])
             self.assertEqual(json.loads(raw), entry['preview'])
-            self.assertTrue(entry['name'].startswith('NuPhy Inspired '))
+            self.assertTrue(entry['name'].startswith('NuPhy '))
+            self.assertTrue(entry['description'].startswith('NuPhy inspired'))
             self.assertEqual(entry['link'], 'https://nuphy.com/')
             prefix = f'https://github.com/example/themes/releases/download/{manifest["version"]}/'
             self.assertTrue(entry['asset']['url'].startswith(prefix))

@@ -202,7 +202,7 @@
   "mechanicalLightAngle" : 315,
   "mechanicalRaised" : false,
   "mechanicalShowEdges" : false,
-  "name" : "NuPhy Inspired BH65",
+  "name" : "NuPhy BH65",
   "source" : "custom",
   "specialKeyFill" : {
     "a" : 1,

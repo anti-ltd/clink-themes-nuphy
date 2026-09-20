@@ -192,7 +192,7 @@
   "mechanicalLightAngle" : 315,
   "mechanicalRaised" : false,
   "mechanicalShowEdges" : false,
-  "name" : "NuPhy Inspired Dark",
+  "name" : "NuPhy Dark",
   "source" : "custom",
   "specialKeyFill" : {
     "a" : 1,

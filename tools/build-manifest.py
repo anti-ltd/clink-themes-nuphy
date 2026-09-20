@@ -21,11 +21,14 @@ entries = []
 for path in themes:
     raw = path.read_bytes()
     theme = json.loads(raw)
-    if theme['id'] != path.stem or not theme['name'].startswith('NuPhy Inspired '):
-        raise SystemExit(f'{path.name}: preserve the theme ID and NuPhy Inspired label')
+    if theme['id'] != path.stem or not theme['name'].startswith('NuPhy '):
+        raise SystemExit(f'{path.name}: preserve the theme ID and NuPhy name')
     if len(raw) > 128_000:
         raise SystemExit(f'{path.name}: theme exceeds app size limit')
     reference = metadata[path.stem]
+    description = reference['description']
+    if not description.startswith('NuPhy inspired') or len(description) > 240:
+        raise SystemExit(f'{path.name}: description must clearly say NuPhy inspired')
     comparison = {'model': reference['model']}
     for field in ['keyboardImage', 'themeImage']:
         name = reference[field]
@@ -33,7 +36,7 @@ for path in themes:
             raise SystemExit(f'{path.name}: missing comparison image {name}')
         comparison[field] = f'{base}/{name}'
     entries.append({'id':theme['id'], 'name':theme['name'], 'version':version,
-                    'preview':theme, 'link':'https://nuphy.com/', 'comparison':comparison,
+                    'preview':theme, 'description':description, 'link':'https://nuphy.com/', 'comparison':comparison,
                     'asset':{'path':path.name, 'url':f'{base}/{path.name}',
                              'sha256':hashlib.sha256(raw).hexdigest(), 'byteCount':len(raw)}})
 (root / 'manifest.json').write_text(json.dumps({'version':version,'themes':entries}, indent=2)+'\n')

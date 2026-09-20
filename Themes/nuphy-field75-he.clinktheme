@@ -204,7 +204,7 @@
   "mechanicalLightAngle" : 315,
   "mechanicalRaised" : false,
   "mechanicalShowEdges" : false,
-  "name" : "NuPhy Inspired Field75 HE",
+  "name" : "NuPhy Field75 HE",
   "source" : "custom",
   "specialKeyFill" : {
     "a" : 1,

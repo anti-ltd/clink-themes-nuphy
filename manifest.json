@@ -1,10 +1,10 @@
 {
-  "version": "themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b",
+  "version": "themes-f34aac03ae6df503a0e25d3c8efa3a2aff6babefc38f4397c83043231f05cba8",
   "themes": [
     {
       "id": "nuphy-air75-he",
-      "name": "NuPhy Inspired Air75 HE",
-      "version": "themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b",
+      "name": "NuPhy Air75 HE",
+      "version": "themes-f34aac03ae6df503a0e25d3c8efa3a2aff6babefc38f4397c83043231f05cba8",
       "preview": {
         "accent": {
           "a": 1,
@@ -197,7 +197,7 @@
         "mechanicalLightAngle": 315,
         "mechanicalRaised": false,
         "mechanicalShowEdges": false,
-        "name": "NuPhy Inspired Air75 HE",
+        "name": "NuPhy Air75 HE",
         "source": "custom",
         "specialKeyFill": {
           "a": 1,
@@ -214,23 +214,24 @@
         "threeDLiquidGlassGeometry": false,
         "threeDVariant": "mechanical"
       },
+      "description": "NuPhy inspired theme based on Air75 HE, stock grey/violet caps.",
       "link": "https://nuphy.com/",
       "comparison": {
         "model": "Air75 HE, stock grey/violet caps",
-        "keyboardImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-air75-he-keyboard.jpg",
-        "themeImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-air75-he-clink.png"
+        "keyboardImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f34aac03ae6df503a0e25d3c8efa3a2aff6babefc38f4397c83043231f05cba8/nuphy-air75-he-keyboard.jpg",
+        "themeImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f34aac03ae6df503a0e25d3c8efa3a2aff6babefc38f4397c83043231f05cba8/nuphy-air75-he-clink.png"
       },
       "asset": {
         "path": "nuphy-air75-he.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-air75-he.clinktheme",
-        "sha256": "7cf8e866a19bcc297d860b6d33809f3253fcf5ff808db74b9803454e87a21135",
-        "byteCount": 4370
+        "url": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f34aac03ae6df503a0e25d3c8efa3a2aff6babefc38f4397c83043231f05cba8/nuphy-air75-he.clinktheme",
+        "sha256": "2b27bf76b650d427fdaa607b22a902f3e518b8f182ae24793056d2bf838eaddf",
+        "byteCount": 4361
       }
     },
     {
       "id": "nuphy-air75-nebula-dark",
-      "name": "NuPhy Inspired Air75 Nebula Dark",
-      "version": "themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b",
+      "name": "NuPhy Air75 Nebula Dark",
+      "version": "themes-f34aac03ae6df503a0e25d3c8efa3a2aff6babefc38f4397c83043231f05cba8",
       "preview": {
         "accent": {
           "a": 1,
@@ -423,7 +424,7 @@
         "mechanicalLightAngle": 315,
         "mechanicalRaised": false,
         "mechanicalShowEdges": false,
-        "name": "NuPhy Inspired Air75 Nebula Dark",
+        "name": "NuPhy Air75 Nebula Dark",
         "source": "custom",
         "specialKeyFill": {
           "a": 1,
@@ -440,23 +441,24 @@
         "threeDLiquidGlassGeometry": false,
         "threeDVariant": "mechanical"
       },
+      "description": "NuPhy inspired theme based on Air75 V3 Nebula Dark.",
       "link": "https://nuphy.com/",
       "comparison": {
         "model": "Air75 V3 Nebula Dark",
-        "keyboardImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-air75-nebula-dark-keyboard.jpg",
-        "themeImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-air75-nebula-dark-clink.png"
+        "keyboardImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f34aac03ae6df503a0e25d3c8efa3a2aff6babefc38f4397c83043231f05cba8/nuphy-air75-nebula-dark-keyboard.jpg",
+        "themeImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f34aac03ae6df503a0e25d3c8efa3a2aff6babefc38f4397c83043231f05cba8/nuphy-air75-nebula-dark-clink.png"
       },
       "asset": {
         "path": "nuphy-air75-nebula-dark.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-air75-nebula-dark.clinktheme",
-        "sha256": "446a41f1f3ad62fef9bc034970631ade2e1e8ae772af9b2cb576c207a457dd35",
-        "byteCount": 4506
+        "url": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f34aac03ae6df503a0e25d3c8efa3a2aff6babefc38f4397c83043231f05cba8/nuphy-air75-nebula-dark.clinktheme",
+        "sha256": "70a8f5b9ae34842ce8253f122c917db83f55e19eb041e31a02a7c33057740a1f",
+        "byteCount": 4497
       }
     },
     {
       "id": "nuphy-air75-nova-white",
-      "name": "NuPhy Inspired Air75 Nova White",
-      "version": "themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b",
+      "name": "NuPhy Air75 Nova White",
+      "version": "themes-f34aac03ae6df503a0e25d3c8efa3a2aff6babefc38f4397c83043231f05cba8",
       "preview": {
         "accent": {
           "a": 1,
@@ -649,7 +651,7 @@
         "mechanicalLightAngle": 315,
         "mechanicalRaised": false,
         "mechanicalShowEdges": false,
-        "name": "NuPhy Inspired Air75 Nova White",
+        "name": "NuPhy Air75 Nova White",
         "source": "custom",
         "specialKeyFill": {
           "a": 1,
@@ -666,23 +668,24 @@
         "threeDLiquidGlassGeometry": false,
         "threeDVariant": "mechanical"
       },
+      "description": "NuPhy inspired theme based on Air75 V3 Nova White.",
       "link": "https://nuphy.com/",
       "comparison": {
         "model": "Air75 V3 Nova White",
-        "keyboardImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-air75-nova-white-keyboard.jpg",
-        "themeImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-air75-nova-white-clink.png"
+        "keyboardImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f34aac03ae6df503a0e25d3c8efa3a2aff6babefc38f4397c83043231f05cba8/nuphy-air75-nova-white-keyboard.jpg",
+        "themeImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f34aac03ae6df503a0e25d3c8efa3a2aff6babefc38f4397c83043231f05cba8/nuphy-air75-nova-white-clink.png"
       },
       "asset": {
         "path": "nuphy-air75-nova-white.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-air75-nova-white.clinktheme",
-        "sha256": "0ce39c45a747a3eb4b818ee77f8c8eaaa48307aef2668a7c9c7d9a7ce2eb281a",
-        "byteCount": 4467
+        "url": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f34aac03ae6df503a0e25d3c8efa3a2aff6babefc38f4397c83043231f05cba8/nuphy-air75-nova-white.clinktheme",
+        "sha256": "a861a353ddd056d29e00271f791c733a0a638bc8cf16bcc22ca1e923a1ac7f47",
+        "byteCount": 4458
       }
     },
     {
       "id": "nuphy-bh65",
-      "name": "NuPhy Inspired BH65",
-      "version": "themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b",
+      "name": "NuPhy BH65",
+      "version": "themes-f34aac03ae6df503a0e25d3c8efa3a2aff6babefc38f4397c83043231f05cba8",
       "preview": {
         "accent": {
           "a": 1,
@@ -887,7 +890,7 @@
         "mechanicalLightAngle": 315,
         "mechanicalRaised": false,
         "mechanicalShowEdges": false,
-        "name": "NuPhy Inspired BH65",
+        "name": "NuPhy BH65",
         "source": "custom",
         "specialKeyFill": {
           "a": 1,
@@ -904,23 +907,24 @@
         "threeDLiquidGlassGeometry": false,
         "threeDVariant": "mechanical"
       },
+      "description": "NuPhy inspired theme based on NuPhyX BH65.",
       "link": "https://nuphy.com/",
       "comparison": {
         "model": "NuPhyX BH65",
-        "keyboardImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-bh65-keyboard.jpg",
-        "themeImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-bh65-clink.png"
+        "keyboardImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f34aac03ae6df503a0e25d3c8efa3a2aff6babefc38f4397c83043231f05cba8/nuphy-bh65-keyboard.jpg",
+        "themeImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f34aac03ae6df503a0e25d3c8efa3a2aff6babefc38f4397c83043231f05cba8/nuphy-bh65-clink.png"
       },
       "asset": {
         "path": "nuphy-bh65.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-bh65.clinktheme",
-        "sha256": "6a35fad4c9ba0243c26413c627386f68c35148b3112da14f9958d28d40c767f7",
-        "byteCount": 4736
+        "url": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f34aac03ae6df503a0e25d3c8efa3a2aff6babefc38f4397c83043231f05cba8/nuphy-bh65.clinktheme",
+        "sha256": "f945c0b1fbdeae80595fc03bd8694fbf557b49eba2506992f2a1f34aa5c06ae6",
+        "byteCount": 4727
       }
     },
     {
       "id": "nuphy-dark",
-      "name": "NuPhy Inspired Dark",
-      "version": "themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b",
+      "name": "NuPhy Dark",
+      "version": "themes-f34aac03ae6df503a0e25d3c8efa3a2aff6babefc38f4397c83043231f05cba8",
       "preview": {
         "accent": {
           "a": 1,
@@ -1115,7 +1119,7 @@
         "mechanicalLightAngle": 315,
         "mechanicalRaised": false,
         "mechanicalShowEdges": false,
-        "name": "NuPhy Inspired Dark",
+        "name": "NuPhy Dark",
         "source": "custom",
         "specialKeyFill": {
           "a": 1,
@@ -1132,23 +1136,24 @@
         "threeDLiquidGlassGeometry": false,
         "threeDVariant": "mechanical"
       },
+      "description": "NuPhy inspired theme based on Halo75 V2 Obsidian Black.",
       "link": "https://nuphy.com/",
       "comparison": {
         "model": "Halo75 V2 Obsidian Black",
-        "keyboardImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-dark-keyboard.jpg",
-        "themeImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-dark-clink.png"
+        "keyboardImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f34aac03ae6df503a0e25d3c8efa3a2aff6babefc38f4397c83043231f05cba8/nuphy-dark-keyboard.jpg",
+        "themeImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f34aac03ae6df503a0e25d3c8efa3a2aff6babefc38f4397c83043231f05cba8/nuphy-dark-clink.png"
       },
       "asset": {
         "path": "nuphy-dark.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-dark.clinktheme",
-        "sha256": "a9820915c769adad097099c1469ac7b654405a8d0690ce89446700a7cac2190a",
-        "byteCount": 4249
+        "url": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f34aac03ae6df503a0e25d3c8efa3a2aff6babefc38f4397c83043231f05cba8/nuphy-dark.clinktheme",
+        "sha256": "3825c807588b9e4a86382c7b39875a0ca4b934a88d4ee3be3990ac55c727013d",
+        "byteCount": 4240
       }
     },
     {
       "id": "nuphy-field75-electro",
-      "name": "NuPhy Inspired Field75 Electro",
-      "version": "themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b",
+      "name": "NuPhy Field75 Electro",
+      "version": "themes-f34aac03ae6df503a0e25d3c8efa3a2aff6babefc38f4397c83043231f05cba8",
       "preview": {
         "accent": {
           "a": 1,
@@ -1329,7 +1334,7 @@
         "mechanicalLightAngle": 315,
         "mechanicalRaised": false,
         "mechanicalShowEdges": false,
-        "name": "NuPhy Inspired Field75 Electro",
+        "name": "NuPhy Field75 Electro",
         "source": "custom",
         "specialKeyFill": {
           "a": 1,
@@ -1346,23 +1351,24 @@
         "threeDLiquidGlassGeometry": false,
         "threeDVariant": "mechanical"
       },
+      "description": "NuPhy inspired theme based on Field75 Electro, original model.",
       "link": "https://nuphy.com/",
       "comparison": {
         "model": "Field75 Electro, original model",
-        "keyboardImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-field75-electro-keyboard.jpg",
-        "themeImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-field75-electro-clink.png"
+        "keyboardImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f34aac03ae6df503a0e25d3c8efa3a2aff6babefc38f4397c83043231f05cba8/nuphy-field75-electro-keyboard.jpg",
+        "themeImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f34aac03ae6df503a0e25d3c8efa3a2aff6babefc38f4397c83043231f05cba8/nuphy-field75-electro-clink.png"
       },
       "asset": {
         "path": "nuphy-field75-electro.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-field75-electro.clinktheme",
-        "sha256": "92d6c2d08ec8edb6921ede96dd1fa80eccd137585e92ed0f36ff9f1498cff1ce",
-        "byteCount": 4233
+        "url": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f34aac03ae6df503a0e25d3c8efa3a2aff6babefc38f4397c83043231f05cba8/nuphy-field75-electro.clinktheme",
+        "sha256": "17f036eeed072fb810e9fddaff6578db0cd12da90b61a04fdf6d9a6dd83ef879",
+        "byteCount": 4224
       }
     },
     {
       "id": "nuphy-field75-he",
-      "name": "NuPhy Inspired Field75 HE",
-      "version": "themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b",
+      "name": "NuPhy Field75 HE",
+      "version": "themes-f34aac03ae6df503a0e25d3c8efa3a2aff6babefc38f4397c83043231f05cba8",
       "preview": {
         "accent": {
           "a": 1,
@@ -1569,7 +1575,7 @@
         "mechanicalLightAngle": 315,
         "mechanicalRaised": false,
         "mechanicalShowEdges": false,
-        "name": "NuPhy Inspired Field75 HE",
+        "name": "NuPhy Field75 HE",
         "source": "custom",
         "specialKeyFill": {
           "a": 1,
@@ -1586,23 +1592,24 @@
         "threeDLiquidGlassGeometry": false,
         "threeDVariant": "mechanical"
       },
+      "description": "NuPhy inspired theme based on Field75 HE, first generation.",
       "link": "https://nuphy.com/",
       "comparison": {
         "model": "Field75 HE, first generation",
-        "keyboardImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-field75-he-keyboard.jpg",
-        "themeImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-field75-he-clink.png"
+        "keyboardImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f34aac03ae6df503a0e25d3c8efa3a2aff6babefc38f4397c83043231f05cba8/nuphy-field75-he-keyboard.jpg",
+        "themeImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f34aac03ae6df503a0e25d3c8efa3a2aff6babefc38f4397c83043231f05cba8/nuphy-field75-he-clink.png"
       },
       "asset": {
         "path": "nuphy-field75-he.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-field75-he.clinktheme",
-        "sha256": "9ab303535857d3539fcdffdc77c02fef6b445708cdb8df3a96cd937ffa18bc45",
-        "byteCount": 4441
+        "url": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f34aac03ae6df503a0e25d3c8efa3a2aff6babefc38f4397c83043231f05cba8/nuphy-field75-he.clinktheme",
+        "sha256": "6da1c833ced88f67edce33dae2c7019aade574229191ca0e0b2497ec6e0913b5",
+        "byteCount": 4432
       }
     },
     {
       "id": "nuphy-field75-noether",
-      "name": "NuPhy Inspired Field75 Noether",
-      "version": "themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b",
+      "name": "NuPhy Field75 Noether",
+      "version": "themes-f34aac03ae6df503a0e25d3c8efa3a2aff6babefc38f4397c83043231f05cba8",
       "preview": {
         "accent": {
           "a": 1,
@@ -1797,7 +1804,7 @@
         "mechanicalLightAngle": 315,
         "mechanicalRaised": false,
         "mechanicalShowEdges": false,
-        "name": "NuPhy Inspired Field75 Noether",
+        "name": "NuPhy Field75 Noether",
         "source": "custom",
         "specialKeyFill": {
           "a": 1,
@@ -1814,23 +1821,24 @@
         "threeDLiquidGlassGeometry": false,
         "threeDVariant": "mechanical"
       },
+      "description": "NuPhy inspired theme based on Field75 Noether, original model.",
       "link": "https://nuphy.com/",
       "comparison": {
         "model": "Field75 Noether, original model",
-        "keyboardImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-field75-noether-keyboard.jpg",
-        "themeImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-field75-noether-clink.png"
+        "keyboardImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f34aac03ae6df503a0e25d3c8efa3a2aff6babefc38f4397c83043231f05cba8/nuphy-field75-noether-keyboard.jpg",
+        "themeImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f34aac03ae6df503a0e25d3c8efa3a2aff6babefc38f4397c83043231f05cba8/nuphy-field75-noether-clink.png"
       },
       "asset": {
         "path": "nuphy-field75-noether.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-field75-noether.clinktheme",
-        "sha256": "1e6a480c8c0ddde275cde06aa78de23e6953472957a5a53e9204fbd9d5d3528a",
-        "byteCount": 4521
+        "url": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f34aac03ae6df503a0e25d3c8efa3a2aff6babefc38f4397c83043231f05cba8/nuphy-field75-noether.clinktheme",
+        "sha256": "97514df9886fd73302f6ebc407187ffb0e9afb914ee52b6a41a86f64e863ea06",
+        "byteCount": 4512
       }
     },
     {
       "id": "nuphy-gem80-cosmic-mocha",
-      "name": "NuPhy Inspired Gem80 Cosmic Mocha",
-      "version": "themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b",
+      "name": "NuPhy Gem80 Cosmic Mocha",
+      "version": "themes-f34aac03ae6df503a0e25d3c8efa3a2aff6babefc38f4397c83043231f05cba8",
       "preview": {
         "accent": {
           "a": 1,
@@ -2011,7 +2019,7 @@
         "mechanicalLightAngle": 315,
         "mechanicalRaised": false,
         "mechanicalShowEdges": false,
-        "name": "NuPhy Inspired Gem80 Cosmic Mocha",
+        "name": "NuPhy Gem80 Cosmic Mocha",
         "source": "custom",
         "specialKeyFill": {
           "a": 1,
@@ -2028,23 +2036,24 @@
         "threeDLiquidGlassGeometry": false,
         "threeDVariant": "mechanical"
       },
+      "description": "NuPhy inspired theme based on Gem80 Cosmic Mocha + themed keycaps.",
       "link": "https://nuphy.com/",
       "comparison": {
         "model": "Gem80 Cosmic Mocha + themed keycaps",
-        "keyboardImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-gem80-cosmic-mocha-keyboard.jpg",
-        "themeImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-gem80-cosmic-mocha-clink.png"
+        "keyboardImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f34aac03ae6df503a0e25d3c8efa3a2aff6babefc38f4397c83043231f05cba8/nuphy-gem80-cosmic-mocha-keyboard.jpg",
+        "themeImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f34aac03ae6df503a0e25d3c8efa3a2aff6babefc38f4397c83043231f05cba8/nuphy-gem80-cosmic-mocha-clink.png"
       },
       "asset": {
         "path": "nuphy-gem80-cosmic-mocha.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-gem80-cosmic-mocha.clinktheme",
-        "sha256": "c942f9b049ae18d63f2cf07540562bb8b9f2a8033c3d3569659506da4e5557ac",
-        "byteCount": 4209
+        "url": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f34aac03ae6df503a0e25d3c8efa3a2aff6babefc38f4397c83043231f05cba8/nuphy-gem80-cosmic-mocha.clinktheme",
+        "sha256": "3505e9420c8c0c4fe33fabb6d1213191a854543e43370dc4f7de9d4bec2f05c8",
+        "byteCount": 4200
       }
     },
     {
       "id": "nuphy-gem80-mystic-indigo",
-      "name": "NuPhy Inspired Gem80 Mystic Indigo",
-      "version": "themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b",
+      "name": "NuPhy Gem80 Mystic Indigo",
+      "version": "themes-f34aac03ae6df503a0e25d3c8efa3a2aff6babefc38f4397c83043231f05cba8",
       "preview": {
         "accent": {
           "a": 1,
@@ -2258,7 +2267,7 @@
         "mechanicalLightAngle": 315,
         "mechanicalRaised": false,
         "mechanicalShowEdges": false,
-        "name": "NuPhy Inspired Gem80 Mystic Indigo",
+        "name": "NuPhy Gem80 Mystic Indigo",
         "source": "custom",
         "specialKeyFill": {
           "a": 1,
@@ -2275,23 +2284,24 @@
         "threeDLiquidGlassGeometry": false,
         "threeDVariant": "mechanical"
       },
+      "description": "NuPhy inspired theme based on Gem80 Mystic Indigo + themed keycaps.",
       "link": "https://nuphy.com/",
       "comparison": {
         "model": "Gem80 Mystic Indigo + themed keycaps",
-        "keyboardImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-gem80-mystic-indigo-keyboard.jpg",
-        "themeImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-gem80-mystic-indigo-clink.png"
+        "keyboardImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f34aac03ae6df503a0e25d3c8efa3a2aff6babefc38f4397c83043231f05cba8/nuphy-gem80-mystic-indigo-keyboard.jpg",
+        "themeImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f34aac03ae6df503a0e25d3c8efa3a2aff6babefc38f4397c83043231f05cba8/nuphy-gem80-mystic-indigo-clink.png"
       },
       "asset": {
         "path": "nuphy-gem80-mystic-indigo.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-gem80-mystic-indigo.clinktheme",
-        "sha256": "e1e7ce8ee5f1154b0af068a91144107cfea59339d91c992003fb6b50af01e0fd",
-        "byteCount": 4670
+        "url": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f34aac03ae6df503a0e25d3c8efa3a2aff6babefc38f4397c83043231f05cba8/nuphy-gem80-mystic-indigo.clinktheme",
+        "sha256": "26e15ffbc7dfb5fec7cae0060917e7e223cfe05352636fc9116407786fc4ab1f",
+        "byteCount": 4661
       }
     },
     {
       "id": "nuphy-halo-blue-lagoon",
-      "name": "NuPhy Inspired Halo Blue Lagoon",
-      "version": "themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b",
+      "name": "NuPhy Halo Blue Lagoon",
+      "version": "themes-f34aac03ae6df503a0e25d3c8efa3a2aff6babefc38f4397c83043231f05cba8",
       "preview": {
         "accent": {
           "a": 1,
@@ -2469,7 +2479,7 @@
         "mechanicalLightAngle": 315,
         "mechanicalRaised": false,
         "mechanicalShowEdges": false,
-        "name": "NuPhy Inspired Halo Blue Lagoon",
+        "name": "NuPhy Halo Blue Lagoon",
         "source": "custom",
         "specialKeyFill": {
           "a": 1,
@@ -2486,23 +2496,24 @@
         "threeDLiquidGlassGeometry": false,
         "threeDVariant": "mechanical"
       },
+      "description": "NuPhy inspired theme based on Halo75 V2 Blue Lagoon.",
       "link": "https://nuphy.com/",
       "comparison": {
         "model": "Halo75 V2 Blue Lagoon",
-        "keyboardImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-halo-blue-lagoon-keyboard.jpg",
-        "themeImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-halo-blue-lagoon-clink.png"
+        "keyboardImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f34aac03ae6df503a0e25d3c8efa3a2aff6babefc38f4397c83043231f05cba8/nuphy-halo-blue-lagoon-keyboard.jpg",
+        "themeImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f34aac03ae6df503a0e25d3c8efa3a2aff6babefc38f4397c83043231f05cba8/nuphy-halo-blue-lagoon-clink.png"
       },
       "asset": {
         "path": "nuphy-halo-blue-lagoon.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-halo-blue-lagoon.clinktheme",
-        "sha256": "95cc16fd1a9f172b5be56fde056548f7057b6ec0b686eef600645227e743598c",
-        "byteCount": 4125
+        "url": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f34aac03ae6df503a0e25d3c8efa3a2aff6babefc38f4397c83043231f05cba8/nuphy-halo-blue-lagoon.clinktheme",
+        "sha256": "d9b218893148cef4320c33e1d29f6a4873fb93f8fc4c0f385333487bbea8d211",
+        "byteCount": 4116
       }
     },
     {
       "id": "nuphy-halo-mojito",
-      "name": "NuPhy Inspired Halo Mojito",
-      "version": "themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b",
+      "name": "NuPhy Halo Mojito",
+      "version": "themes-f34aac03ae6df503a0e25d3c8efa3a2aff6babefc38f4397c83043231f05cba8",
       "preview": {
         "accent": {
           "a": 1,
@@ -2656,7 +2667,7 @@
         "mechanicalLightAngle": 315,
         "mechanicalRaised": false,
         "mechanicalShowEdges": false,
-        "name": "NuPhy Inspired Halo Mojito",
+        "name": "NuPhy Halo Mojito",
         "source": "custom",
         "specialKeyFill": {
           "a": 1,
@@ -2673,23 +2684,24 @@
         "threeDLiquidGlassGeometry": false,
         "threeDVariant": "mechanical"
       },
+      "description": "NuPhy inspired theme based on Halo75 V2 Mojito.",
       "link": "https://nuphy.com/",
       "comparison": {
         "model": "Halo75 V2 Mojito",
-        "keyboardImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-halo-mojito-keyboard.jpg",
-        "themeImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-halo-mojito-clink.png"
+        "keyboardImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f34aac03ae6df503a0e25d3c8efa3a2aff6babefc38f4397c83043231f05cba8/nuphy-halo-mojito-keyboard.jpg",
+        "themeImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f34aac03ae6df503a0e25d3c8efa3a2aff6babefc38f4397c83043231f05cba8/nuphy-halo-mojito-clink.png"
       },
       "asset": {
         "path": "nuphy-halo-mojito.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-halo-mojito.clinktheme",
-        "sha256": "a8c721681ad4c002c7f255f927cfa31e070953b3b0157139e8ba0cd521376399",
-        "byteCount": 3538
+        "url": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f34aac03ae6df503a0e25d3c8efa3a2aff6babefc38f4397c83043231f05cba8/nuphy-halo-mojito.clinktheme",
+        "sha256": "1fe393b325e4c74aff187d8fd49dc7f3ecfee83d83eff4fbcad30c724bd475a2",
+        "byteCount": 3529
       }
     },
     {
       "id": "nuphy-kick75",
-      "name": "NuPhy Inspired Kick75",
-      "version": "themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b",
+      "name": "NuPhy Kick75",
+      "version": "themes-f34aac03ae6df503a0e25d3c8efa3a2aff6babefc38f4397c83043231f05cba8",
       "preview": {
         "accent": {
           "a": 1,
@@ -2896,7 +2908,7 @@
         "mechanicalLightAngle": 315,
         "mechanicalRaised": false,
         "mechanicalShowEdges": false,
-        "name": "NuPhy Inspired Kick75",
+        "name": "NuPhy Kick75",
         "source": "custom",
         "specialKeyFill": {
           "a": 1,
@@ -2913,23 +2925,24 @@
         "threeDLiquidGlassGeometry": false,
         "threeDVariant": "mechanical"
       },
+      "description": "NuPhy inspired theme based on Kick75, low-profile stock caps.",
       "link": "https://nuphy.com/",
       "comparison": {
         "model": "Kick75, low-profile stock caps",
-        "keyboardImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-kick75-keyboard.jpg",
-        "themeImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-kick75-clink.png"
+        "keyboardImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f34aac03ae6df503a0e25d3c8efa3a2aff6babefc38f4397c83043231f05cba8/nuphy-kick75-keyboard.jpg",
+        "themeImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f34aac03ae6df503a0e25d3c8efa3a2aff6babefc38f4397c83043231f05cba8/nuphy-kick75-clink.png"
       },
       "asset": {
         "path": "nuphy-kick75.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-kick75.clinktheme",
-        "sha256": "60f8bfd7ccbe023d2acf9a7460e4bff225110e375679825bc023681489b3d089",
-        "byteCount": 4652
+        "url": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f34aac03ae6df503a0e25d3c8efa3a2aff6babefc38f4397c83043231f05cba8/nuphy-kick75.clinktheme",
+        "sha256": "6e111d2890c7d8a70a3d19c594a27d16262dde951790407e3e4499f3568f47a2",
+        "byteCount": 4643
       }
     },
     {
       "id": "nuphy-light",
-      "name": "NuPhy Inspired Light",
-      "version": "themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b",
+      "name": "NuPhy Light",
+      "version": "themes-f34aac03ae6df503a0e25d3c8efa3a2aff6babefc38f4397c83043231f05cba8",
       "preview": {
         "accent": {
           "a": 1,
@@ -3124,7 +3137,7 @@
         "mechanicalLightAngle": 315,
         "mechanicalRaised": false,
         "mechanicalShowEdges": false,
-        "name": "NuPhy Inspired Light",
+        "name": "NuPhy Light",
         "source": "custom",
         "specialKeyFill": {
           "a": 1,
@@ -3141,23 +3154,24 @@
         "threeDLiquidGlassGeometry": false,
         "threeDVariant": "mechanical"
       },
+      "description": "NuPhy inspired theme based on Halo75 V2 Ionic White.",
       "link": "https://nuphy.com/",
       "comparison": {
         "model": "Halo75 V2 Ionic White",
-        "keyboardImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-light-keyboard.jpg",
-        "themeImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-light-clink.png"
+        "keyboardImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f34aac03ae6df503a0e25d3c8efa3a2aff6babefc38f4397c83043231f05cba8/nuphy-light-keyboard.jpg",
+        "themeImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f34aac03ae6df503a0e25d3c8efa3a2aff6babefc38f4397c83043231f05cba8/nuphy-light-clink.png"
       },
       "asset": {
         "path": "nuphy-light.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-light.clinktheme",
-        "sha256": "2e1e0d168dbd75ba85ad1e258f3be6b6f25e960d184bf8dcf5e6dc9335e7c9ec",
-        "byteCount": 4234
+        "url": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f34aac03ae6df503a0e25d3c8efa3a2aff6babefc38f4397c83043231f05cba8/nuphy-light.clinktheme",
+        "sha256": "ee15312773b0ce2ded78c3c1d63de5af95a4526479409996845be42fd1ff177b",
+        "byteCount": 4225
       }
     },
     {
       "id": "nuphy-node100-light-pink",
-      "name": "NuPhy Inspired Node100 Light Pink",
-      "version": "themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b",
+      "name": "NuPhy Node100 Light Pink",
+      "version": "themes-f34aac03ae6df503a0e25d3c8efa3a2aff6babefc38f4397c83043231f05cba8",
       "preview": {
         "accent": {
           "a": 1,
@@ -3350,7 +3364,7 @@
         "mechanicalLightAngle": 315,
         "mechanicalRaised": false,
         "mechanicalShowEdges": false,
-        "name": "NuPhy Inspired Node100 Light Pink",
+        "name": "NuPhy Node100 Light Pink",
         "source": "custom",
         "specialKeyFill": {
           "a": 1,
@@ -3367,23 +3381,24 @@
         "threeDLiquidGlassGeometry": false,
         "threeDVariant": "mechanical"
       },
+      "description": "NuPhy inspired theme based on Node100 Low-profile Light Pink.",
       "link": "https://nuphy.com/",
       "comparison": {
         "model": "Node100 Low-profile Light Pink",
-        "keyboardImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-node100-light-pink-keyboard.jpg",
-        "themeImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-node100-light-pink-clink.png"
+        "keyboardImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f34aac03ae6df503a0e25d3c8efa3a2aff6babefc38f4397c83043231f05cba8/nuphy-node100-light-pink-keyboard.jpg",
+        "themeImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f34aac03ae6df503a0e25d3c8efa3a2aff6babefc38f4397c83043231f05cba8/nuphy-node100-light-pink-clink.png"
       },
       "asset": {
         "path": "nuphy-node100-light-pink.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-node100-light-pink.clinktheme",
-        "sha256": "e39cc6e72f4a1f9f9c9633cd10733d4b91a9e8968107733dd02e2fc144386201",
-        "byteCount": 4452
+        "url": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f34aac03ae6df503a0e25d3c8efa3a2aff6babefc38f4397c83043231f05cba8/nuphy-node100-light-pink.clinktheme",
+        "sha256": "89fabee0fe930794b85bb6ba0122a58514868bf9581585e4750f32bac4050fed",
+        "byteCount": 4443
       }
     },
     {
       "id": "nuphy-node75-ink-gray",
-      "name": "NuPhy Inspired Node75 Ink Gray",
-      "version": "themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b",
+      "name": "NuPhy Node75 Ink Gray",
+      "version": "themes-f34aac03ae6df503a0e25d3c8efa3a2aff6babefc38f4397c83043231f05cba8",
       "preview": {
         "accent": {
           "a": 1,
@@ -3576,7 +3591,7 @@
         "mechanicalLightAngle": 315,
         "mechanicalRaised": true,
         "mechanicalShowEdges": false,
-        "name": "NuPhy Inspired Node75 Ink Gray",
+        "name": "NuPhy Node75 Ink Gray",
         "source": "custom",
         "specialKeyFill": {
           "a": 1,
@@ -3593,23 +3608,24 @@
         "threeDLiquidGlassGeometry": false,
         "threeDVariant": "mechanical"
       },
+      "description": "NuPhy inspired theme based on Node75 High-profile Ink Gray.",
       "link": "https://nuphy.com/",
       "comparison": {
         "model": "Node75 High-profile Ink Gray",
-        "keyboardImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-node75-ink-gray-keyboard.jpg",
-        "themeImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-node75-ink-gray-clink.png"
+        "keyboardImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f34aac03ae6df503a0e25d3c8efa3a2aff6babefc38f4397c83043231f05cba8/nuphy-node75-ink-gray-keyboard.jpg",
+        "themeImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f34aac03ae6df503a0e25d3c8efa3a2aff6babefc38f4397c83043231f05cba8/nuphy-node75-ink-gray-clink.png"
       },
       "asset": {
         "path": "nuphy-node75-ink-gray.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-node75-ink-gray.clinktheme",
-        "sha256": "f0a715e1e6d764067c02874dafc88c5b9700caaec528c8e824012c7584b49291",
-        "byteCount": 4496
+        "url": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f34aac03ae6df503a0e25d3c8efa3a2aff6babefc38f4397c83043231f05cba8/nuphy-node75-ink-gray.clinktheme",
+        "sha256": "6ea29486d8661c2b7f30634a55f572cd7ba21efa60d319c19299ffcdd115c6ca",
+        "byteCount": 4487
       }
     },
     {
       "id": "nuphy-node75-lunar-white",
-      "name": "NuPhy Inspired Node75 Lunar White",
-      "version": "themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b",
+      "name": "NuPhy Node75 Lunar White",
+      "version": "themes-f34aac03ae6df503a0e25d3c8efa3a2aff6babefc38f4397c83043231f05cba8",
       "preview": {
         "accent": {
           "a": 1,
@@ -3802,7 +3818,7 @@
         "mechanicalLightAngle": 315,
         "mechanicalRaised": true,
         "mechanicalShowEdges": false,
-        "name": "NuPhy Inspired Node75 Lunar White",
+        "name": "NuPhy Node75 Lunar White",
         "source": "custom",
         "specialKeyFill": {
           "a": 1,
@@ -3819,17 +3835,18 @@
         "threeDLiquidGlassGeometry": false,
         "threeDVariant": "mechanical"
       },
+      "description": "NuPhy inspired theme based on Node75 High-profile Lunar White.",
       "link": "https://nuphy.com/",
       "comparison": {
         "model": "Node75 High-profile Lunar White",
-        "keyboardImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-node75-lunar-white-keyboard.jpg",
-        "themeImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-node75-lunar-white-clink.png"
+        "keyboardImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f34aac03ae6df503a0e25d3c8efa3a2aff6babefc38f4397c83043231f05cba8/nuphy-node75-lunar-white-keyboard.jpg",
+        "themeImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f34aac03ae6df503a0e25d3c8efa3a2aff6babefc38f4397c83043231f05cba8/nuphy-node75-lunar-white-clink.png"
       },
       "asset": {
         "path": "nuphy-node75-lunar-white.clinktheme",
-        "url": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-node75-lunar-white.clinktheme",
-        "sha256": "7717253eb0c3ec7b37b1b8f2317469c15c23f229afa504453f3e3c892bf1686a",
-        "byteCount": 4429
+        "url": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f34aac03ae6df503a0e25d3c8efa3a2aff6babefc38f4397c83043231f05cba8/nuphy-node75-lunar-white.clinktheme",
+        "sha256": "9d77af8bb6a61a9be03e4f73761d1524a61c2e9250467a6a91f9abb142e67c34",
+        "byteCount": 4420
       }
     }
   ]

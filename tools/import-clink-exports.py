@@ -16,8 +16,8 @@ for path in args.attachments.glob('*.clinktheme'):
     raw = path.read_bytes()
     theme = json.loads(raw)
     if theme['id'] in expected:
-        if not theme['name'].startswith('NuPhy Inspired '):
-            raise SystemExit('Exported theme names must start with NuPhy Inspired')
+        if not theme['name'].startswith('NuPhy '):
+            raise SystemExit('Exported theme names must start with NuPhy')
         documents[theme['id']] = raw
 if set(documents) != expected:
     raise SystemExit(f'Missing theme exports: {sorted(expected-set(documents))}')

@@ -192,7 +192,7 @@
   "mechanicalLightAngle" : 315,
   "mechanicalRaised" : false,
   "mechanicalShowEdges" : false,
-  "name" : "NuPhy Inspired Light",
+  "name" : "NuPhy Light",
   "source" : "custom",
   "specialKeyFill" : {
     "a" : 1,
