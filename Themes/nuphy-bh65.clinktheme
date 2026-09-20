@@ -1,0 +1,221 @@
+{
+  "accent" : {
+    "a" : 1,
+    "b" : 0.6901960784313725,
+    "g" : 0.2823529411764706,
+    "r" : 0.3568627450980392
+  },
+  "background" : {
+    "a" : 1,
+    "b" : 0.0784313725490196,
+    "g" : 0.06666666666666667,
+    "r" : 0.06666666666666667
+  },
+  "backgroundEffect" : {
+    "blend" : "glow",
+    "colorMode" : "custom",
+    "customColor" : {
+      "a" : 1,
+      "b" : 0.9019607843137255,
+      "g" : 0.8470588235294118,
+      "r" : 0.30980392156862746
+    },
+    "customColor2" : {
+      "a" : 1,
+      "b" : 0.9411764705882353,
+      "g" : 0.3568627450980392,
+      "r" : 0.47843137254901963
+    },
+    "density" : 0.5,
+    "intensity" : 0.5,
+    "reactionStrength" : 1,
+    "reactive" : true,
+    "scale" : 1,
+    "secondaryColorMode" : "custom",
+    "speed" : 0.7,
+    "style" : "waves"
+  },
+  "backgroundImageFraming" : {
+    "horizontalPosition" : 0.5,
+    "verticalPosition" : 0.5,
+    "zoom" : 1
+  },
+  "berryLightAngle" : 315,
+  "berryMirrorWall" : true,
+  "berryOppositeEdge" : "automatic",
+  "berryRampEnabled" : true,
+  "berryWallSide" : "left",
+  "gamepadInnerRadius" : 8,
+  "gamepadVariant" : "retro",
+  "glassInteractive" : false,
+  "glassReflectionStrength" : 1,
+  "glassTintStrength" : 1,
+  "glassVariant" : "regular",
+  "groupPaint" : {
+    "backspace" : {
+      "pressed" : {
+        "a" : 1,
+        "b" : 0.6901960784313725,
+        "g" : 0.2823529411764706,
+        "r" : 0.3568627450980392
+      }
+    },
+    "modifiers" : {
+      "activeFill" : {
+        "a" : 1,
+        "b" : 0.6901960784313725,
+        "g" : 0.2823529411764706,
+        "r" : 0.3568627450980392
+      },
+      "activeText" : {
+        "a" : 1,
+        "b" : 0.7529411764705882,
+        "g" : 0.8392156862745098,
+        "r" : 0.4980392156862745
+      }
+    },
+    "return" : {
+      "activeFill" : {
+        "a" : 1,
+        "b" : 0.6901960784313725,
+        "g" : 0.2823529411764706,
+        "r" : 0.3568627450980392
+      },
+      "activeText" : {
+        "a" : 1,
+        "b" : 0.7529411764705882,
+        "g" : 0.8392156862745098,
+        "r" : 0.4980392156862745
+      },
+      "fill" : {
+        "a" : 1,
+        "b" : 0.6901960784313725,
+        "g" : 0.2823529411764706,
+        "r" : 0.3568627450980392
+      },
+      "text" : {
+        "a" : 1,
+        "b" : 0.7529411764705882,
+        "g" : 0.8392156862745098,
+        "r" : 0.4980392156862745
+      }
+    }
+  },
+  "id" : "nuphy-bh65",
+  "isDark" : true,
+  "joinRows" : false,
+  "keyCapShape" : "rect",
+  "keyFill" : {
+    "a" : 1,
+    "b" : 0.1411764705882353,
+    "g" : 0.12156862745098039,
+    "r" : 0.12156862745098039
+  },
+  "keyFontDesign" : "default",
+  "keyFontWeight" : "medium",
+  "keyImageFraming" : {
+    "horizontalPosition" : 0.5,
+    "verticalPosition" : 0.5,
+    "zoom" : 1
+  },
+  "keyInnerShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyInnerStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyOuterStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyPaint" : {
+    "f:planeToggle" : {
+      "activeFill" : {
+        "a" : 1,
+        "b" : 0.6901960784313725,
+        "g" : 0.2823529411764706,
+        "r" : 0.3568627450980392
+      },
+      "activeText" : {
+        "a" : 1,
+        "b" : 0.7529411764705882,
+        "g" : 0.8392156862745098,
+        "r" : 0.4980392156862745
+      },
+      "fill" : {
+        "a" : 1,
+        "b" : 0.6901960784313725,
+        "g" : 0.2823529411764706,
+        "r" : 0.3568627450980392
+      },
+      "text" : {
+        "a" : 1,
+        "b" : 0.7529411764705882,
+        "g" : 0.8392156862745098,
+        "r" : 0.4980392156862745
+      }
+    }
+  },
+  "keyShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyText" : {
+    "a" : 1,
+    "b" : 0.7529411764705882,
+    "g" : 0.8392156862745098,
+    "r" : 0.4980392156862745
+  },
+  "material" : "3d",
+  "mechanicalFaceInset" : 4,
+  "mechanicalInnerRadius" : 35,
+  "mechanicalLightAngle" : 315,
+  "mechanicalRaised" : false,
+  "mechanicalShowEdges" : false,
+  "name" : "NuPhy Inspired BH65",
+  "source" : "custom",
+  "specialKeyFill" : {
+    "a" : 1,
+    "b" : 0.1411764705882353,
+    "g" : 0.12156862745098039,
+    "r" : 0.12156862745098039
+  },
+  "specialKeyText" : {
+    "a" : 1,
+    "b" : 0.7529411764705882,
+    "g" : 0.8392156862745098,
+    "r" : 0.4980392156862745
+  },
+  "threeDLiquidGlassGeometry" : false,
+  "threeDVariant" : "mechanical"
+}

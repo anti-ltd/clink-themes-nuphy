@@ -1,0 +1,3836 @@
+{
+  "version": "themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b",
+  "themes": [
+    {
+      "id": "nuphy-air75-he",
+      "name": "NuPhy Inspired Air75 HE",
+      "version": "themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.8588235294117647,
+          "g": 0.27058823529411763,
+          "r": 0.3568627450980392
+        },
+        "background": {
+          "a": 1,
+          "b": 0.7843137254901961,
+          "g": 0.7686274509803922,
+          "r": 0.7647058823529411
+        },
+        "backgroundImageFraming": {
+          "horizontalPosition": 0.5,
+          "verticalPosition": 0.5,
+          "zoom": 1
+        },
+        "berryLightAngle": 315,
+        "berryMirrorWall": true,
+        "berryOppositeEdge": "automatic",
+        "berryRampEnabled": true,
+        "berryWallSide": "left",
+        "gamepadInnerRadius": 8,
+        "gamepadVariant": "retro",
+        "glassInteractive": false,
+        "glassReflectionStrength": 1,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": {
+          "backspace": {
+            "fill": {
+              "a": 1,
+              "b": 0.9019607843137255,
+              "g": 0.3333333333333333,
+              "r": 0.41568627450980394
+            },
+            "pressed": {
+              "a": 1,
+              "b": 0.7215686274509804,
+              "g": 0.2,
+              "r": 0.27450980392156865
+            },
+            "text": {
+              "a": 1,
+              "b": 1,
+              "g": 0.9215686274509803,
+              "r": 0.9333333333333333
+            }
+          },
+          "modifiers": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.8588235294117647,
+              "g": 0.27058823529411763,
+              "r": 0.3568627450980392
+            },
+            "activeText": {
+              "a": 1,
+              "b": 1,
+              "g": 0.9215686274509803,
+              "r": 0.9333333333333333
+            }
+          },
+          "return": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.8588235294117647,
+              "g": 0.27058823529411763,
+              "r": 0.3568627450980392
+            },
+            "activeText": {
+              "a": 1,
+              "b": 1,
+              "g": 0.9215686274509803,
+              "r": 0.9333333333333333
+            },
+            "fill": {
+              "a": 1,
+              "b": 0.8588235294117647,
+              "g": 0.27058823529411763,
+              "r": 0.3568627450980392
+            },
+            "text": {
+              "a": 1,
+              "b": 1,
+              "g": 0.9215686274509803,
+              "r": 0.9333333333333333
+            }
+          }
+        },
+        "id": "nuphy-air75-he",
+        "isDark": false,
+        "joinRows": false,
+        "keyCapShape": "rect",
+        "keyFill": {
+          "a": 1,
+          "b": 0.3843137254901961,
+          "g": 0.3607843137254902,
+          "r": 0.3607843137254902
+        },
+        "keyFontDesign": "default",
+        "keyFontWeight": "medium",
+        "keyImageFraming": {
+          "horizontalPosition": 0.5,
+          "verticalPosition": 0.5,
+          "zoom": 1
+        },
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {
+          "f:planeToggle": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.8588235294117647,
+              "g": 0.27058823529411763,
+              "r": 0.3568627450980392
+            },
+            "activeText": {
+              "a": 1,
+              "b": 1,
+              "g": 0.9215686274509803,
+              "r": 0.9333333333333333
+            },
+            "fill": {
+              "a": 1,
+              "b": 0.8588235294117647,
+              "g": 0.27058823529411763,
+              "r": 0.3568627450980392
+            },
+            "text": {
+              "a": 1,
+              "b": 1,
+              "g": 0.9215686274509803,
+              "r": 0.9333333333333333
+            }
+          }
+        },
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.9254901960784314,
+          "g": 0.9137254901960784,
+          "r": 0.9137254901960784
+        },
+        "material": "3d",
+        "mechanicalFaceInset": 4,
+        "mechanicalInnerRadius": 40,
+        "mechanicalLightAngle": 315,
+        "mechanicalRaised": false,
+        "mechanicalShowEdges": false,
+        "name": "NuPhy Inspired Air75 HE",
+        "source": "custom",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.12156862745098039,
+          "g": 0.10980392156862745,
+          "r": 0.10980392156862745
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.8784313725490196,
+          "g": 0.8627450980392157,
+          "r": 0.8627450980392157
+        },
+        "threeDLiquidGlassGeometry": false,
+        "threeDVariant": "mechanical"
+      },
+      "link": "https://nuphy.com/",
+      "comparison": {
+        "model": "Air75 HE, stock grey/violet caps",
+        "keyboardImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-air75-he-keyboard.jpg",
+        "themeImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-air75-he-clink.png"
+      },
+      "asset": {
+        "path": "nuphy-air75-he.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-air75-he.clinktheme",
+        "sha256": "7cf8e866a19bcc297d860b6d33809f3253fcf5ff808db74b9803454e87a21135",
+        "byteCount": 4370
+      }
+    },
+    {
+      "id": "nuphy-air75-nebula-dark",
+      "name": "NuPhy Inspired Air75 Nebula Dark",
+      "version": "themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.596078431372549,
+          "g": 0.7098039215686275,
+          "r": 0.30196078431372547
+        },
+        "background": {
+          "a": 1,
+          "b": 0.07450980392156863,
+          "g": 0.07058823529411765,
+          "r": 0.07058823529411765
+        },
+        "backgroundImageFraming": {
+          "horizontalPosition": 0.5,
+          "verticalPosition": 0.5,
+          "zoom": 1
+        },
+        "berryLightAngle": 315,
+        "berryMirrorWall": true,
+        "berryOppositeEdge": "automatic",
+        "berryRampEnabled": true,
+        "berryWallSide": "left",
+        "gamepadInnerRadius": 8,
+        "gamepadVariant": "retro",
+        "glassInteractive": false,
+        "glassReflectionStrength": 1,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": {
+          "backspace": {
+            "fill": {
+              "a": 1,
+              "b": 0.20392156862745098,
+              "g": 0.6784313725490196,
+              "r": 0.8196078431372549
+            },
+            "pressed": {
+              "a": 1,
+              "b": 0.1411764705882353,
+              "g": 0.5450980392156862,
+              "r": 0.6627450980392157
+            },
+            "text": {
+              "a": 1,
+              "b": 0.0392156862745098,
+              "g": 0.1607843137254902,
+              "r": 0.2
+            }
+          },
+          "modifiers": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.596078431372549,
+              "g": 0.7098039215686275,
+              "r": 0.30196078431372547
+            },
+            "activeText": {
+              "a": 1,
+              "b": 0.12941176470588237,
+              "g": 0.16470588235294117,
+              "r": 0.043137254901960784
+            }
+          },
+          "return": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.2549019607843137,
+              "g": 0.3686274509803922,
+              "r": 0.807843137254902
+            },
+            "activeText": {
+              "a": 1,
+              "b": 0.027450980392156862,
+              "g": 0.054901960784313725,
+              "r": 0.16470588235294117
+            },
+            "fill": {
+              "a": 1,
+              "b": 0.2549019607843137,
+              "g": 0.3686274509803922,
+              "r": 0.807843137254902
+            },
+            "text": {
+              "a": 1,
+              "b": 0.027450980392156862,
+              "g": 0.054901960784313725,
+              "r": 0.16470588235294117
+            }
+          }
+        },
+        "id": "nuphy-air75-nebula-dark",
+        "isDark": true,
+        "joinRows": false,
+        "keyCapShape": "rect",
+        "keyFill": {
+          "a": 1,
+          "b": 0.1568627450980392,
+          "g": 0.14901960784313725,
+          "r": 0.14901960784313725
+        },
+        "keyFontDesign": "rounded",
+        "keyFontWeight": "medium",
+        "keyImageFraming": {
+          "horizontalPosition": 0.5,
+          "verticalPosition": 0.5,
+          "zoom": 1
+        },
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {
+          "f:planeToggle": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.596078431372549,
+              "g": 0.7098039215686275,
+              "r": 0.30196078431372547
+            },
+            "activeText": {
+              "a": 1,
+              "b": 0.12941176470588237,
+              "g": 0.16470588235294117,
+              "r": 0.043137254901960784
+            },
+            "fill": {
+              "a": 1,
+              "b": 0.596078431372549,
+              "g": 0.7098039215686275,
+              "r": 0.30196078431372547
+            },
+            "text": {
+              "a": 1,
+              "b": 0.12941176470588237,
+              "g": 0.16470588235294117,
+              "r": 0.043137254901960784
+            }
+          }
+        },
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.7098039215686275,
+          "g": 0.7098039215686275,
+          "r": 0.7098039215686275
+        },
+        "material": "3d",
+        "mechanicalFaceInset": 4,
+        "mechanicalInnerRadius": 45,
+        "mechanicalLightAngle": 315,
+        "mechanicalRaised": false,
+        "mechanicalShowEdges": false,
+        "name": "NuPhy Inspired Air75 Nebula Dark",
+        "source": "custom",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.1568627450980392,
+          "g": 0.14901960784313725,
+          "r": 0.14901960784313725
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.7098039215686275,
+          "g": 0.7098039215686275,
+          "r": 0.7098039215686275
+        },
+        "threeDLiquidGlassGeometry": false,
+        "threeDVariant": "mechanical"
+      },
+      "link": "https://nuphy.com/",
+      "comparison": {
+        "model": "Air75 V3 Nebula Dark",
+        "keyboardImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-air75-nebula-dark-keyboard.jpg",
+        "themeImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-air75-nebula-dark-clink.png"
+      },
+      "asset": {
+        "path": "nuphy-air75-nebula-dark.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-air75-nebula-dark.clinktheme",
+        "sha256": "446a41f1f3ad62fef9bc034970631ade2e1e8ae772af9b2cb576c207a457dd35",
+        "byteCount": 4506
+      }
+    },
+    {
+      "id": "nuphy-air75-nova-white",
+      "name": "NuPhy Inspired Air75 Nova White",
+      "version": "themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.6509803921568628,
+          "g": 0.7411764705882353,
+          "r": 0.396078431372549
+        },
+        "background": {
+          "a": 1,
+          "b": 0.8274509803921568,
+          "g": 0.8274509803921568,
+          "r": 0.8235294117647058
+        },
+        "backgroundImageFraming": {
+          "horizontalPosition": 0.5,
+          "verticalPosition": 0.5,
+          "zoom": 1
+        },
+        "berryLightAngle": 315,
+        "berryMirrorWall": true,
+        "berryOppositeEdge": "automatic",
+        "berryRampEnabled": true,
+        "berryWallSide": "left",
+        "gamepadInnerRadius": 8,
+        "gamepadVariant": "retro",
+        "glassInteractive": false,
+        "glassReflectionStrength": 1,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": {
+          "backspace": {
+            "fill": {
+              "a": 1,
+              "b": 0.2980392156862745,
+              "g": 0.7215686274509804,
+              "r": 0.8431372549019608
+            },
+            "pressed": {
+              "a": 1,
+              "b": 0.20392156862745098,
+              "g": 0.6039215686274509,
+              "r": 0.7254901960784313
+            },
+            "text": {
+              "a": 1,
+              "b": 0.06274509803921569,
+              "g": 0.18823529411764706,
+              "r": 0.22745098039215686
+            }
+          },
+          "modifiers": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.6509803921568628,
+              "g": 0.7411764705882353,
+              "r": 0.396078431372549
+            },
+            "activeText": {
+              "a": 1,
+              "b": 0.18823529411764706,
+              "g": 0.22745098039215686,
+              "r": 0.06274509803921569
+            }
+          },
+          "return": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.2549019607843137,
+              "g": 0.3686274509803922,
+              "r": 0.807843137254902
+            },
+            "activeText": {
+              "a": 1,
+              "b": 0.9372549019607843,
+              "g": 0.9568627450980393,
+              "r": 1
+            },
+            "fill": {
+              "a": 1,
+              "b": 0.2549019607843137,
+              "g": 0.3686274509803922,
+              "r": 0.807843137254902
+            },
+            "text": {
+              "a": 1,
+              "b": 0.9372549019607843,
+              "g": 0.9568627450980393,
+              "r": 1
+            }
+          }
+        },
+        "id": "nuphy-air75-nova-white",
+        "isDark": false,
+        "joinRows": false,
+        "keyCapShape": "rect",
+        "keyFill": {
+          "a": 1,
+          "b": 0.9411764705882353,
+          "g": 0.9450980392156862,
+          "r": 0.9450980392156862
+        },
+        "keyFontDesign": "rounded",
+        "keyFontWeight": "medium",
+        "keyImageFraming": {
+          "horizontalPosition": 0.5,
+          "verticalPosition": 0.5,
+          "zoom": 1
+        },
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {
+          "f:planeToggle": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.6509803921568628,
+              "g": 0.7411764705882353,
+              "r": 0.396078431372549
+            },
+            "activeText": {
+              "a": 1,
+              "b": 0.18823529411764706,
+              "g": 0.22745098039215686,
+              "r": 0.06274509803921569
+            },
+            "fill": {
+              "a": 1,
+              "b": 0.6509803921568628,
+              "g": 0.7411764705882353,
+              "r": 0.396078431372549
+            },
+            "text": {
+              "a": 1,
+              "b": 0.18823529411764706,
+              "g": 0.22745098039215686,
+              "r": 0.06274509803921569
+            }
+          }
+        },
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.3843137254901961,
+          "g": 0.3764705882352941,
+          "r": 0.37254901960784315
+        },
+        "material": "3d",
+        "mechanicalFaceInset": 4,
+        "mechanicalInnerRadius": 45,
+        "mechanicalLightAngle": 315,
+        "mechanicalRaised": false,
+        "mechanicalShowEdges": false,
+        "name": "NuPhy Inspired Air75 Nova White",
+        "source": "custom",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.9411764705882353,
+          "g": 0.9450980392156862,
+          "r": 0.9450980392156862
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.3843137254901961,
+          "g": 0.3764705882352941,
+          "r": 0.37254901960784315
+        },
+        "threeDLiquidGlassGeometry": false,
+        "threeDVariant": "mechanical"
+      },
+      "link": "https://nuphy.com/",
+      "comparison": {
+        "model": "Air75 V3 Nova White",
+        "keyboardImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-air75-nova-white-keyboard.jpg",
+        "themeImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-air75-nova-white-clink.png"
+      },
+      "asset": {
+        "path": "nuphy-air75-nova-white.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-air75-nova-white.clinktheme",
+        "sha256": "0ce39c45a747a3eb4b818ee77f8c8eaaa48307aef2668a7c9c7d9a7ce2eb281a",
+        "byteCount": 4467
+      }
+    },
+    {
+      "id": "nuphy-bh65",
+      "name": "NuPhy Inspired BH65",
+      "version": "themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.6901960784313725,
+          "g": 0.2823529411764706,
+          "r": 0.3568627450980392
+        },
+        "background": {
+          "a": 1,
+          "b": 0.0784313725490196,
+          "g": 0.06666666666666667,
+          "r": 0.06666666666666667
+        },
+        "backgroundEffect": {
+          "blend": "glow",
+          "colorMode": "custom",
+          "customColor": {
+            "a": 1,
+            "b": 0.9019607843137255,
+            "g": 0.8470588235294118,
+            "r": 0.30980392156862746
+          },
+          "customColor2": {
+            "a": 1,
+            "b": 0.9411764705882353,
+            "g": 0.3568627450980392,
+            "r": 0.47843137254901963
+          },
+          "density": 0.5,
+          "intensity": 0.5,
+          "reactionStrength": 1,
+          "reactive": true,
+          "scale": 1,
+          "secondaryColorMode": "custom",
+          "speed": 0.7,
+          "style": "waves"
+        },
+        "backgroundImageFraming": {
+          "horizontalPosition": 0.5,
+          "verticalPosition": 0.5,
+          "zoom": 1
+        },
+        "berryLightAngle": 315,
+        "berryMirrorWall": true,
+        "berryOppositeEdge": "automatic",
+        "berryRampEnabled": true,
+        "berryWallSide": "left",
+        "gamepadInnerRadius": 8,
+        "gamepadVariant": "retro",
+        "glassInteractive": false,
+        "glassReflectionStrength": 1,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": {
+          "backspace": {
+            "pressed": {
+              "a": 1,
+              "b": 0.6901960784313725,
+              "g": 0.2823529411764706,
+              "r": 0.3568627450980392
+            }
+          },
+          "modifiers": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.6901960784313725,
+              "g": 0.2823529411764706,
+              "r": 0.3568627450980392
+            },
+            "activeText": {
+              "a": 1,
+              "b": 0.7529411764705882,
+              "g": 0.8392156862745098,
+              "r": 0.4980392156862745
+            }
+          },
+          "return": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.6901960784313725,
+              "g": 0.2823529411764706,
+              "r": 0.3568627450980392
+            },
+            "activeText": {
+              "a": 1,
+              "b": 0.7529411764705882,
+              "g": 0.8392156862745098,
+              "r": 0.4980392156862745
+            },
+            "fill": {
+              "a": 1,
+              "b": 0.6901960784313725,
+              "g": 0.2823529411764706,
+              "r": 0.3568627450980392
+            },
+            "text": {
+              "a": 1,
+              "b": 0.7529411764705882,
+              "g": 0.8392156862745098,
+              "r": 0.4980392156862745
+            }
+          }
+        },
+        "id": "nuphy-bh65",
+        "isDark": true,
+        "joinRows": false,
+        "keyCapShape": "rect",
+        "keyFill": {
+          "a": 1,
+          "b": 0.1411764705882353,
+          "g": 0.12156862745098039,
+          "r": 0.12156862745098039
+        },
+        "keyFontDesign": "default",
+        "keyFontWeight": "medium",
+        "keyImageFraming": {
+          "horizontalPosition": 0.5,
+          "verticalPosition": 0.5,
+          "zoom": 1
+        },
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {
+          "f:planeToggle": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.6901960784313725,
+              "g": 0.2823529411764706,
+              "r": 0.3568627450980392
+            },
+            "activeText": {
+              "a": 1,
+              "b": 0.7529411764705882,
+              "g": 0.8392156862745098,
+              "r": 0.4980392156862745
+            },
+            "fill": {
+              "a": 1,
+              "b": 0.6901960784313725,
+              "g": 0.2823529411764706,
+              "r": 0.3568627450980392
+            },
+            "text": {
+              "a": 1,
+              "b": 0.7529411764705882,
+              "g": 0.8392156862745098,
+              "r": 0.4980392156862745
+            }
+          }
+        },
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.7529411764705882,
+          "g": 0.8392156862745098,
+          "r": 0.4980392156862745
+        },
+        "material": "3d",
+        "mechanicalFaceInset": 4,
+        "mechanicalInnerRadius": 35,
+        "mechanicalLightAngle": 315,
+        "mechanicalRaised": false,
+        "mechanicalShowEdges": false,
+        "name": "NuPhy Inspired BH65",
+        "source": "custom",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.1411764705882353,
+          "g": 0.12156862745098039,
+          "r": 0.12156862745098039
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.7529411764705882,
+          "g": 0.8392156862745098,
+          "r": 0.4980392156862745
+        },
+        "threeDLiquidGlassGeometry": false,
+        "threeDVariant": "mechanical"
+      },
+      "link": "https://nuphy.com/",
+      "comparison": {
+        "model": "NuPhyX BH65",
+        "keyboardImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-bh65-keyboard.jpg",
+        "themeImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-bh65-clink.png"
+      },
+      "asset": {
+        "path": "nuphy-bh65.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-bh65.clinktheme",
+        "sha256": "6a35fad4c9ba0243c26413c627386f68c35148b3112da14f9958d28d40c767f7",
+        "byteCount": 4736
+      }
+    },
+    {
+      "id": "nuphy-dark",
+      "name": "NuPhy Inspired Dark",
+      "version": "themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.6901960784313725,
+          "g": 0.796078431372549,
+          "r": 0.24705882352941178
+        },
+        "background": {
+          "a": 1,
+          "b": 0.08627450980392157,
+          "g": 0.08235294117647059,
+          "r": 0.08235294117647059
+        },
+        "backgroundImageFraming": {
+          "horizontalPosition": 0.5,
+          "verticalPosition": 0.5,
+          "zoom": 1
+        },
+        "berryLightAngle": 315,
+        "berryMirrorWall": true,
+        "berryOppositeEdge": "automatic",
+        "berryRampEnabled": true,
+        "berryWallSide": "left",
+        "gamepadInnerRadius": 8,
+        "gamepadVariant": "retro",
+        "glassInteractive": false,
+        "glassReflectionStrength": 1,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": {
+          "backspace": {
+            "pressed": {
+              "a": 1,
+              "b": 0.6901960784313725,
+              "g": 0.796078431372549,
+              "r": 0.24705882352941178
+            }
+          },
+          "modifiers": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.6901960784313725,
+              "g": 0.796078431372549,
+              "r": 0.24705882352941178
+            },
+            "activeText": {
+              "a": 1,
+              "b": 1,
+              "g": 1,
+              "r": 1
+            }
+          },
+          "return": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.29411764705882354,
+              "g": 0.33725490196078434,
+              "r": 0.9490196078431372
+            },
+            "activeText": {
+              "a": 1,
+              "b": 1,
+              "g": 1,
+              "r": 1
+            },
+            "fill": {
+              "a": 1,
+              "b": 0.29411764705882354,
+              "g": 0.33725490196078434,
+              "r": 0.9490196078431372
+            },
+            "text": {
+              "a": 1,
+              "b": 1,
+              "g": 1,
+              "r": 1
+            }
+          },
+          "space": {
+            "fill": {
+              "a": 1,
+              "b": 0.24705882352941178,
+              "g": 0.7647058823529411,
+              "r": 0.9372549019607843
+            },
+            "text": {
+              "a": 1,
+              "b": 0.06274509803921569,
+              "g": 0.17254901960784313,
+              "r": 0.20784313725490197
+            }
+          }
+        },
+        "id": "nuphy-dark",
+        "isDark": true,
+        "joinRows": false,
+        "keyCapShape": "rect",
+        "keyFill": {
+          "a": 1,
+          "b": 0.16470588235294117,
+          "g": 0.1568627450980392,
+          "r": 0.15294117647058825
+        },
+        "keyFontDesign": "default",
+        "keyFontWeight": "medium",
+        "keyImageFraming": {
+          "horizontalPosition": 0.5,
+          "verticalPosition": 0.5,
+          "zoom": 1
+        },
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {
+          "f:planeToggle": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.6901960784313725,
+              "g": 0.796078431372549,
+              "r": 0.24705882352941178
+            },
+            "activeText": {
+              "a": 1,
+              "b": 1,
+              "g": 1,
+              "r": 1
+            },
+            "fill": {
+              "a": 1,
+              "b": 0.6901960784313725,
+              "g": 0.796078431372549,
+              "r": 0.24705882352941178
+            },
+            "text": {
+              "a": 1,
+              "b": 1,
+              "g": 1,
+              "r": 1
+            }
+          }
+        },
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.9176470588235294,
+          "g": 0.9294117647058824,
+          "r": 0.9294117647058824
+        },
+        "material": "3d",
+        "mechanicalFaceInset": 4,
+        "mechanicalInnerRadius": 50,
+        "mechanicalLightAngle": 315,
+        "mechanicalRaised": false,
+        "mechanicalShowEdges": false,
+        "name": "NuPhy Inspired Dark",
+        "source": "custom",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.24313725490196078,
+          "g": 0.23529411764705882,
+          "r": 0.23137254901960785
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.796078431372549,
+          "g": 0.8117647058823529,
+          "r": 0.8117647058823529
+        },
+        "threeDLiquidGlassGeometry": false,
+        "threeDVariant": "mechanical"
+      },
+      "link": "https://nuphy.com/",
+      "comparison": {
+        "model": "Halo75 V2 Obsidian Black",
+        "keyboardImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-dark-keyboard.jpg",
+        "themeImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-dark-clink.png"
+      },
+      "asset": {
+        "path": "nuphy-dark.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-dark.clinktheme",
+        "sha256": "a9820915c769adad097099c1469ac7b654405a8d0690ce89446700a7cac2190a",
+        "byteCount": 4249
+      }
+    },
+    {
+      "id": "nuphy-field75-electro",
+      "name": "NuPhy Inspired Field75 Electro",
+      "version": "themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.35294117647058826,
+          "g": 0.8627450980392157,
+          "r": 0.7176470588235294
+        },
+        "background": {
+          "a": 1,
+          "b": 0.08627450980392157,
+          "g": 0.08627450980392157,
+          "r": 0.08627450980392157
+        },
+        "backgroundImageFraming": {
+          "horizontalPosition": 0.5,
+          "verticalPosition": 0.5,
+          "zoom": 1
+        },
+        "berryLightAngle": 315,
+        "berryMirrorWall": true,
+        "berryOppositeEdge": "automatic",
+        "berryRampEnabled": true,
+        "berryWallSide": "left",
+        "gamepadInnerRadius": 8,
+        "gamepadVariant": "retro",
+        "glassInteractive": false,
+        "glassReflectionStrength": 1,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": {
+          "backspace": {
+            "pressed": {
+              "a": 1,
+              "b": 0.35294117647058826,
+              "g": 0.8627450980392157,
+              "r": 0.7176470588235294
+            }
+          },
+          "modifiers": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.35294117647058826,
+              "g": 0.8627450980392157,
+              "r": 0.7176470588235294
+            },
+            "activeText": {
+              "a": 1,
+              "b": 0.10196078431372549,
+              "g": 0.10196078431372549,
+              "r": 0.10196078431372549
+            }
+          },
+          "return": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.35294117647058826,
+              "g": 0.8627450980392157,
+              "r": 0.7176470588235294
+            },
+            "activeText": {
+              "a": 1,
+              "b": 0.10196078431372549,
+              "g": 0.10196078431372549,
+              "r": 0.10196078431372549
+            },
+            "fill": {
+              "a": 1,
+              "b": 0.35294117647058826,
+              "g": 0.8627450980392157,
+              "r": 0.7176470588235294
+            },
+            "text": {
+              "a": 1,
+              "b": 0.10196078431372549,
+              "g": 0.10196078431372549,
+              "r": 0.10196078431372549
+            }
+          }
+        },
+        "id": "nuphy-field75-electro",
+        "isDark": true,
+        "joinRows": false,
+        "keyCapShape": "rect",
+        "keyFill": {
+          "a": 1,
+          "b": 0.12156862745098039,
+          "g": 0.1450980392156863,
+          "r": 0.1411764705882353
+        },
+        "keyFontDesign": "default",
+        "keyFontWeight": "medium",
+        "keyImageFraming": {
+          "horizontalPosition": 0.5,
+          "verticalPosition": 0.5,
+          "zoom": 1
+        },
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {
+          "f:planeToggle": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.35294117647058826,
+              "g": 0.8627450980392157,
+              "r": 0.7176470588235294
+            },
+            "activeText": {
+              "a": 1,
+              "b": 0.10196078431372549,
+              "g": 0.10196078431372549,
+              "r": 0.10196078431372549
+            },
+            "fill": {
+              "a": 1,
+              "b": 0.35294117647058826,
+              "g": 0.8627450980392157,
+              "r": 0.7176470588235294
+            },
+            "text": {
+              "a": 1,
+              "b": 0.10196078431372549,
+              "g": 0.10196078431372549,
+              "r": 0.10196078431372549
+            }
+          }
+        },
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.35294117647058826,
+          "g": 0.8627450980392157,
+          "r": 0.7176470588235294
+        },
+        "material": "3d",
+        "mechanicalFaceInset": 4,
+        "mechanicalInnerRadius": 25,
+        "mechanicalLightAngle": 315,
+        "mechanicalRaised": false,
+        "mechanicalShowEdges": false,
+        "name": "NuPhy Inspired Field75 Electro",
+        "source": "custom",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.48627450980392156,
+          "g": 0.5058823529411764,
+          "r": 0.49411764705882355
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.10196078431372549,
+          "g": 0.11372549019607843,
+          "r": 0.10980392156862745
+        },
+        "threeDLiquidGlassGeometry": false,
+        "threeDVariant": "mechanical"
+      },
+      "link": "https://nuphy.com/",
+      "comparison": {
+        "model": "Field75 Electro, original model",
+        "keyboardImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-field75-electro-keyboard.jpg",
+        "themeImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-field75-electro-clink.png"
+      },
+      "asset": {
+        "path": "nuphy-field75-electro.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-field75-electro.clinktheme",
+        "sha256": "92d6c2d08ec8edb6921ede96dd1fa80eccd137585e92ed0f36ff9f1498cff1ce",
+        "byteCount": 4233
+      }
+    },
+    {
+      "id": "nuphy-field75-he",
+      "name": "NuPhy Inspired Field75 HE",
+      "version": "themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.1843137254901961,
+          "g": 0.396078431372549,
+          "r": 0.9098039215686274
+        },
+        "background": {
+          "a": 1,
+          "b": 0.792156862745098,
+          "g": 0.7803921568627451,
+          "r": 0.7764705882352941
+        },
+        "backgroundImageFraming": {
+          "horizontalPosition": 0.5,
+          "verticalPosition": 0.5,
+          "zoom": 1
+        },
+        "berryLightAngle": 315,
+        "berryMirrorWall": true,
+        "berryOppositeEdge": "automatic",
+        "berryRampEnabled": true,
+        "berryWallSide": "left",
+        "gamepadInnerRadius": 8,
+        "gamepadVariant": "retro",
+        "glassInteractive": false,
+        "glassReflectionStrength": 1,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": {
+          "backspace": {
+            "pressed": {
+              "a": 1,
+              "b": 0.1843137254901961,
+              "g": 0.396078431372549,
+              "r": 0.9098039215686274
+            }
+          },
+          "modifiers": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.1843137254901961,
+              "g": 0.396078431372549,
+              "r": 0.9098039215686274
+            },
+            "activeText": {
+              "a": 1,
+              "b": 1,
+              "g": 1,
+              "r": 1
+            }
+          },
+          "return": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.1843137254901961,
+              "g": 0.396078431372549,
+              "r": 0.9098039215686274
+            },
+            "activeText": {
+              "a": 1,
+              "b": 1,
+              "g": 1,
+              "r": 1
+            },
+            "fill": {
+              "a": 1,
+              "b": 0.1843137254901961,
+              "g": 0.396078431372549,
+              "r": 0.9098039215686274
+            },
+            "text": {
+              "a": 1,
+              "b": 1,
+              "g": 1,
+              "r": 1
+            }
+          }
+        },
+        "id": "nuphy-field75-he",
+        "isDark": false,
+        "joinRows": false,
+        "keyCapShape": "rect",
+        "keyFill": {
+          "a": 1,
+          "b": 0.33725490196078434,
+          "g": 0.30980392156862746,
+          "r": 0.2901960784313726
+        },
+        "keyFontDesign": "default",
+        "keyFontWeight": "medium",
+        "keyImageFraming": {
+          "horizontalPosition": 0.5,
+          "verticalPosition": 0.5,
+          "zoom": 1
+        },
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {
+          "f:globe": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.1843137254901961,
+              "g": 0.396078431372549,
+              "r": 0.9098039215686274
+            },
+            "activeText": {
+              "a": 1,
+              "b": 1,
+              "g": 1,
+              "r": 1
+            },
+            "fill": {
+              "a": 1,
+              "b": 0.1843137254901961,
+              "g": 0.396078431372549,
+              "r": 0.9098039215686274
+            },
+            "text": {
+              "a": 1,
+              "b": 1,
+              "g": 1,
+              "r": 1
+            }
+          },
+          "f:planeToggle": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.1843137254901961,
+              "g": 0.396078431372549,
+              "r": 0.9098039215686274
+            },
+            "activeText": {
+              "a": 1,
+              "b": 1,
+              "g": 1,
+              "r": 1
+            },
+            "fill": {
+              "a": 1,
+              "b": 0.1843137254901961,
+              "g": 0.396078431372549,
+              "r": 0.9098039215686274
+            },
+            "text": {
+              "a": 1,
+              "b": 1,
+              "g": 1,
+              "r": 1
+            }
+          }
+        },
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.9294117647058824,
+          "g": 0.9294117647058824,
+          "r": 0.9294117647058824
+        },
+        "material": "3d",
+        "mechanicalFaceInset": 4,
+        "mechanicalInnerRadius": 20,
+        "mechanicalLightAngle": 315,
+        "mechanicalRaised": false,
+        "mechanicalShowEdges": false,
+        "name": "NuPhy Inspired Field75 HE",
+        "source": "custom",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.9411764705882353,
+          "g": 0.9411764705882353,
+          "r": 0.9411764705882353
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.33725490196078434,
+          "g": 0.30980392156862746,
+          "r": 0.2901960784313726
+        },
+        "threeDLiquidGlassGeometry": false,
+        "threeDVariant": "mechanical"
+      },
+      "link": "https://nuphy.com/",
+      "comparison": {
+        "model": "Field75 HE, first generation",
+        "keyboardImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-field75-he-keyboard.jpg",
+        "themeImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-field75-he-clink.png"
+      },
+      "asset": {
+        "path": "nuphy-field75-he.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-field75-he.clinktheme",
+        "sha256": "9ab303535857d3539fcdffdc77c02fef6b445708cdb8df3a96cd937ffa18bc45",
+        "byteCount": 4441
+      }
+    },
+    {
+      "id": "nuphy-field75-noether",
+      "name": "NuPhy Inspired Field75 Noether",
+      "version": "themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.5647058823529412,
+          "g": 0.5058823529411764,
+          "r": 0.9333333333333333
+        },
+        "background": {
+          "a": 1,
+          "b": 0.8392156862745098,
+          "g": 0.8352941176470589,
+          "r": 0.9098039215686274
+        },
+        "backgroundImageFraming": {
+          "horizontalPosition": 0.5,
+          "verticalPosition": 0.5,
+          "zoom": 1
+        },
+        "berryLightAngle": 315,
+        "berryMirrorWall": true,
+        "berryOppositeEdge": "automatic",
+        "berryRampEnabled": true,
+        "berryWallSide": "left",
+        "gamepadInnerRadius": 8,
+        "gamepadVariant": "retro",
+        "glassInteractive": false,
+        "glassReflectionStrength": 1,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": {
+          "backspace": {
+            "pressed": {
+              "a": 1,
+              "b": 0.5647058823529412,
+              "g": 0.5058823529411764,
+              "r": 0.9333333333333333
+            }
+          },
+          "modifiers": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.5647058823529412,
+              "g": 0.5058823529411764,
+              "r": 0.9333333333333333
+            },
+            "activeText": {
+              "a": 1,
+              "b": 0.3254901960784314,
+              "g": 0.20784313725490197,
+              "r": 0.1843137254901961
+            }
+          },
+          "return": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.5647058823529412,
+              "g": 0.5058823529411764,
+              "r": 0.9333333333333333
+            },
+            "activeText": {
+              "a": 1,
+              "b": 0.3254901960784314,
+              "g": 0.20784313725490197,
+              "r": 0.1843137254901961
+            },
+            "fill": {
+              "a": 1,
+              "b": 0.5647058823529412,
+              "g": 0.5058823529411764,
+              "r": 0.9333333333333333
+            },
+            "text": {
+              "a": 1,
+              "b": 0.3254901960784314,
+              "g": 0.20784313725490197,
+              "r": 0.1843137254901961
+            }
+          },
+          "space": {
+            "fill": {
+              "a": 1,
+              "b": 0.5647058823529412,
+              "g": 0.5058823529411764,
+              "r": 0.9333333333333333
+            },
+            "text": {
+              "a": 1,
+              "b": 0.3254901960784314,
+              "g": 0.20784313725490197,
+              "r": 0.1843137254901961
+            }
+          }
+        },
+        "id": "nuphy-field75-noether",
+        "isDark": false,
+        "joinRows": false,
+        "keyCapShape": "rect",
+        "keyFill": {
+          "a": 1,
+          "b": 0.9372549019607843,
+          "g": 0.9294117647058824,
+          "r": 0.9607843137254902
+        },
+        "keyFontDesign": "default",
+        "keyFontWeight": "medium",
+        "keyImageFraming": {
+          "horizontalPosition": 0.5,
+          "verticalPosition": 0.5,
+          "zoom": 1
+        },
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {
+          "f:planeToggle": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.5647058823529412,
+              "g": 0.5058823529411764,
+              "r": 0.9333333333333333
+            },
+            "activeText": {
+              "a": 1,
+              "b": 0.3254901960784314,
+              "g": 0.20784313725490197,
+              "r": 0.1843137254901961
+            },
+            "fill": {
+              "a": 1,
+              "b": 0.5647058823529412,
+              "g": 0.5058823529411764,
+              "r": 0.9333333333333333
+            },
+            "text": {
+              "a": 1,
+              "b": 0.3254901960784314,
+              "g": 0.20784313725490197,
+              "r": 0.1843137254901961
+            }
+          }
+        },
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.3686274509803922,
+          "g": 0.24705882352941178,
+          "r": 0.22745098039215686
+        },
+        "material": "3d",
+        "mechanicalFaceInset": 4,
+        "mechanicalInnerRadius": 25,
+        "mechanicalLightAngle": 315,
+        "mechanicalRaised": false,
+        "mechanicalShowEdges": false,
+        "name": "NuPhy Inspired Field75 Noether",
+        "source": "custom",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.3254901960784314,
+          "g": 0.20784313725490197,
+          "r": 0.1843137254901961
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.9333333333333333,
+          "g": 0.9254901960784314,
+          "r": 0.9568627450980393
+        },
+        "threeDLiquidGlassGeometry": false,
+        "threeDVariant": "mechanical"
+      },
+      "link": "https://nuphy.com/",
+      "comparison": {
+        "model": "Field75 Noether, original model",
+        "keyboardImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-field75-noether-keyboard.jpg",
+        "themeImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-field75-noether-clink.png"
+      },
+      "asset": {
+        "path": "nuphy-field75-noether.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-field75-noether.clinktheme",
+        "sha256": "1e6a480c8c0ddde275cde06aa78de23e6953472957a5a53e9204fbd9d5d3528a",
+        "byteCount": 4521
+      }
+    },
+    {
+      "id": "nuphy-gem80-cosmic-mocha",
+      "name": "NuPhy Inspired Gem80 Cosmic Mocha",
+      "version": "themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.20784313725490197,
+          "g": 0.27058823529411763,
+          "r": 0.3686274509803922
+        },
+        "background": {
+          "a": 1,
+          "b": 0.7176470588235294,
+          "g": 0.7686274509803922,
+          "r": 0.8
+        },
+        "backgroundImageFraming": {
+          "horizontalPosition": 0.5,
+          "verticalPosition": 0.5,
+          "zoom": 1
+        },
+        "berryLightAngle": 315,
+        "berryMirrorWall": true,
+        "berryOppositeEdge": "automatic",
+        "berryRampEnabled": true,
+        "berryWallSide": "left",
+        "gamepadInnerRadius": 8,
+        "gamepadVariant": "retro",
+        "glassInteractive": false,
+        "glassReflectionStrength": 1,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": {
+          "backspace": {
+            "pressed": {
+              "a": 1,
+              "b": 0.20784313725490197,
+              "g": 0.27058823529411763,
+              "r": 0.3686274509803922
+            }
+          },
+          "modifiers": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.20784313725490197,
+              "g": 0.27058823529411763,
+              "r": 0.3686274509803922
+            },
+            "activeText": {
+              "a": 1,
+              "b": 0.8666666666666667,
+              "g": 0.9137254901960784,
+              "r": 0.9450980392156862
+            }
+          },
+          "return": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.20784313725490197,
+              "g": 0.27058823529411763,
+              "r": 0.3686274509803922
+            },
+            "activeText": {
+              "a": 1,
+              "b": 0.8666666666666667,
+              "g": 0.9137254901960784,
+              "r": 0.9450980392156862
+            },
+            "fill": {
+              "a": 1,
+              "b": 0.20784313725490197,
+              "g": 0.27058823529411763,
+              "r": 0.3686274509803922
+            },
+            "text": {
+              "a": 1,
+              "b": 0.8666666666666667,
+              "g": 0.9137254901960784,
+              "r": 0.9450980392156862
+            }
+          }
+        },
+        "id": "nuphy-gem80-cosmic-mocha",
+        "isDark": false,
+        "joinRows": false,
+        "keyCapShape": "rect",
+        "keyFill": {
+          "a": 1,
+          "b": 0.8745098039215686,
+          "g": 0.9137254901960784,
+          "r": 0.9333333333333333
+        },
+        "keyFontDesign": "default",
+        "keyFontWeight": "medium",
+        "keyImageFraming": {
+          "horizontalPosition": 0.5,
+          "verticalPosition": 0.5,
+          "zoom": 1
+        },
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {
+          "f:planeToggle": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.20784313725490197,
+              "g": 0.27058823529411763,
+              "r": 0.3686274509803922
+            },
+            "activeText": {
+              "a": 1,
+              "b": 0.8666666666666667,
+              "g": 0.9137254901960784,
+              "r": 0.9450980392156862
+            },
+            "fill": {
+              "a": 1,
+              "b": 0.20784313725490197,
+              "g": 0.27058823529411763,
+              "r": 0.3686274509803922
+            },
+            "text": {
+              "a": 1,
+              "b": 0.8666666666666667,
+              "g": 0.9137254901960784,
+              "r": 0.9450980392156862
+            }
+          }
+        },
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.34509803921568627,
+          "g": 0.3843137254901961,
+          "r": 0.4196078431372549
+        },
+        "material": "3d",
+        "mechanicalFaceInset": 4,
+        "mechanicalInnerRadius": 50,
+        "mechanicalLightAngle": 315,
+        "mechanicalRaised": false,
+        "mechanicalShowEdges": false,
+        "name": "NuPhy Inspired Gem80 Cosmic Mocha",
+        "source": "custom",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.8745098039215686,
+          "g": 0.9137254901960784,
+          "r": 0.9333333333333333
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.34509803921568627,
+          "g": 0.3843137254901961,
+          "r": 0.4196078431372549
+        },
+        "threeDLiquidGlassGeometry": false,
+        "threeDVariant": "mechanical"
+      },
+      "link": "https://nuphy.com/",
+      "comparison": {
+        "model": "Gem80 Cosmic Mocha + themed keycaps",
+        "keyboardImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-gem80-cosmic-mocha-keyboard.jpg",
+        "themeImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-gem80-cosmic-mocha-clink.png"
+      },
+      "asset": {
+        "path": "nuphy-gem80-cosmic-mocha.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-gem80-cosmic-mocha.clinktheme",
+        "sha256": "c942f9b049ae18d63f2cf07540562bb8b9f2a8033c3d3569659506da4e5557ac",
+        "byteCount": 4209
+      }
+    },
+    {
+      "id": "nuphy-gem80-mystic-indigo",
+      "name": "NuPhy Inspired Gem80 Mystic Indigo",
+      "version": "themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.8156862745098039,
+          "g": 0.43529411764705883,
+          "r": 0.24705882352941178
+        },
+        "background": {
+          "a": 1,
+          "b": 0.4588235294117647,
+          "g": 0.27058823529411763,
+          "r": 0.16470588235294117
+        },
+        "backgroundGradient": {
+          "rotation": 160,
+          "stops": [
+            {
+              "color": {
+                "a": 1,
+                "b": 0.5803921568627451,
+                "g": 0.3607843137254902,
+                "r": 0.22745098039215686
+              },
+              "position": 0
+            },
+            {
+              "color": {
+                "a": 1,
+                "b": 0.4588235294117647,
+                "g": 0.27058823529411763,
+                "r": 0.16470588235294117
+              },
+              "position": 0.45
+            },
+            {
+              "color": {
+                "a": 1,
+                "b": 0.3215686274509804,
+                "g": 0.1843137254901961,
+                "r": 0.10980392156862745
+              },
+              "position": 1
+            }
+          ],
+          "type": "linear"
+        },
+        "backgroundImageFraming": {
+          "horizontalPosition": 0.5,
+          "verticalPosition": 0.5,
+          "zoom": 1
+        },
+        "berryLightAngle": 315,
+        "berryMirrorWall": true,
+        "berryOppositeEdge": "automatic",
+        "berryRampEnabled": true,
+        "berryWallSide": "left",
+        "gamepadInnerRadius": 8,
+        "gamepadVariant": "retro",
+        "glassInteractive": false,
+        "glassReflectionStrength": 1,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": {
+          "backspace": {
+            "pressed": {
+              "a": 1,
+              "b": 0.8156862745098039,
+              "g": 0.43529411764705883,
+              "r": 0.24705882352941178
+            }
+          },
+          "modifiers": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.8156862745098039,
+              "g": 0.43529411764705883,
+              "r": 0.24705882352941178
+            },
+            "activeText": {
+              "a": 1,
+              "b": 1,
+              "g": 1,
+              "r": 1
+            }
+          },
+          "return": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.8156862745098039,
+              "g": 0.43529411764705883,
+              "r": 0.24705882352941178
+            },
+            "activeText": {
+              "a": 1,
+              "b": 1,
+              "g": 1,
+              "r": 1
+            },
+            "fill": {
+              "a": 1,
+              "b": 0.8156862745098039,
+              "g": 0.43529411764705883,
+              "r": 0.24705882352941178
+            },
+            "text": {
+              "a": 1,
+              "b": 1,
+              "g": 1,
+              "r": 1
+            }
+          }
+        },
+        "id": "nuphy-gem80-mystic-indigo",
+        "isDark": true,
+        "joinRows": false,
+        "keyCapShape": "rect",
+        "keyFill": {
+          "a": 1,
+          "b": 0.13333333333333333,
+          "g": 0.10980392156862745,
+          "r": 0.10196078431372549
+        },
+        "keyFontDesign": "default",
+        "keyFontWeight": "medium",
+        "keyImageFraming": {
+          "horizontalPosition": 0.5,
+          "verticalPosition": 0.5,
+          "zoom": 1
+        },
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {
+          "f:planeToggle": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.8156862745098039,
+              "g": 0.43529411764705883,
+              "r": 0.24705882352941178
+            },
+            "activeText": {
+              "a": 1,
+              "b": 1,
+              "g": 1,
+              "r": 1
+            },
+            "fill": {
+              "a": 1,
+              "b": 0.8156862745098039,
+              "g": 0.43529411764705883,
+              "r": 0.24705882352941178
+            },
+            "text": {
+              "a": 1,
+              "b": 1,
+              "g": 1,
+              "r": 1
+            }
+          }
+        },
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.9019607843137255,
+          "g": 0.8274509803921568,
+          "r": 0.788235294117647
+        },
+        "material": "3d",
+        "mechanicalFaceInset": 4,
+        "mechanicalInnerRadius": 50,
+        "mechanicalLightAngle": 315,
+        "mechanicalRaised": false,
+        "mechanicalShowEdges": false,
+        "name": "NuPhy Inspired Gem80 Mystic Indigo",
+        "source": "custom",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.13333333333333333,
+          "g": 0.10980392156862745,
+          "r": 0.10196078431372549
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.9019607843137255,
+          "g": 0.8274509803921568,
+          "r": 0.788235294117647
+        },
+        "threeDLiquidGlassGeometry": false,
+        "threeDVariant": "mechanical"
+      },
+      "link": "https://nuphy.com/",
+      "comparison": {
+        "model": "Gem80 Mystic Indigo + themed keycaps",
+        "keyboardImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-gem80-mystic-indigo-keyboard.jpg",
+        "themeImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-gem80-mystic-indigo-clink.png"
+      },
+      "asset": {
+        "path": "nuphy-gem80-mystic-indigo.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-gem80-mystic-indigo.clinktheme",
+        "sha256": "e1e7ce8ee5f1154b0af068a91144107cfea59339d91c992003fb6b50af01e0fd",
+        "byteCount": 4670
+      }
+    },
+    {
+      "id": "nuphy-halo-blue-lagoon",
+      "name": "NuPhy Inspired Halo Blue Lagoon",
+      "version": "themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.9254901960784314,
+          "g": 0.7647058823529411,
+          "r": 0.5607843137254902
+        },
+        "background": {
+          "a": 1,
+          "b": 0.6274509803921569,
+          "g": 0.33725490196078434,
+          "r": 0.10196078431372549
+        },
+        "backgroundEffect": {
+          "blend": "glow",
+          "colorMode": "custom",
+          "customColor": {
+            "a": 1,
+            "b": 1,
+            "g": 0.7843137254901961,
+            "r": 0.4980392156862745
+          },
+          "customColor2": {
+            "a": 1,
+            "b": 0.8784313725490196,
+            "g": 0.4980392156862745,
+            "r": 0.24705882352941178
+          },
+          "density": 0.5,
+          "intensity": 0.45,
+          "reactionStrength": 1,
+          "reactive": true,
+          "scale": 1,
+          "secondaryColorMode": "custom",
+          "speed": 0.6,
+          "style": "waves"
+        },
+        "backgroundImageFraming": {
+          "horizontalPosition": 0.5,
+          "verticalPosition": 0.5,
+          "zoom": 1
+        },
+        "berryLightAngle": 315,
+        "berryMirrorWall": true,
+        "berryOppositeEdge": "automatic",
+        "berryRampEnabled": true,
+        "berryWallSide": "left",
+        "gamepadInnerRadius": 8,
+        "gamepadVariant": "retro",
+        "glassInteractive": false,
+        "glassReflectionStrength": 1,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": {
+          "backspace": {
+            "pressed": {
+              "a": 1,
+              "b": 0.9254901960784314,
+              "g": 0.7647058823529411,
+              "r": 0.5607843137254902
+            }
+          },
+          "modifiers": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.9254901960784314,
+              "g": 0.7647058823529411,
+              "r": 0.5607843137254902
+            },
+            "activeText": {
+              "a": 1,
+              "b": 0.3215686274509804,
+              "g": 0.16470588235294117,
+              "r": 0.0392156862745098
+            }
+          },
+          "return": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.7686274509803922,
+              "g": 0.596078431372549,
+              "r": 0.3803921568627451
+            },
+            "activeText": {
+              "a": 1,
+              "b": 0.9529411764705882,
+              "g": 0.9098039215686274,
+              "r": 0.8666666666666667
+            },
+            "fill": {
+              "a": 1,
+              "b": 0.7686274509803922,
+              "g": 0.596078431372549,
+              "r": 0.3803921568627451
+            },
+            "text": {
+              "a": 1,
+              "b": 0.9529411764705882,
+              "g": 0.9098039215686274,
+              "r": 0.8666666666666667
+            }
+          }
+        },
+        "id": "nuphy-halo-blue-lagoon",
+        "isDark": true,
+        "joinRows": false,
+        "keyCapShape": "rect",
+        "keyFill": {
+          "a": 1,
+          "b": 0.47058823529411764,
+          "g": 0.23921568627450981,
+          "r": 0.047058823529411764
+        },
+        "keyFontDesign": "rounded",
+        "keyFontWeight": "medium",
+        "keyImageFraming": {
+          "horizontalPosition": 0.5,
+          "verticalPosition": 0.5,
+          "zoom": 1
+        },
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {},
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.9529411764705882,
+          "g": 0.9098039215686274,
+          "r": 0.8666666666666667
+        },
+        "material": "3d",
+        "mechanicalFaceInset": 4,
+        "mechanicalInnerRadius": 50,
+        "mechanicalLightAngle": 315,
+        "mechanicalRaised": false,
+        "mechanicalShowEdges": false,
+        "name": "NuPhy Inspired Halo Blue Lagoon",
+        "source": "custom",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.7686274509803922,
+          "g": 0.596078431372549,
+          "r": 0.3803921568627451
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.9529411764705882,
+          "g": 0.9098039215686274,
+          "r": 0.8666666666666667
+        },
+        "threeDLiquidGlassGeometry": false,
+        "threeDVariant": "mechanical"
+      },
+      "link": "https://nuphy.com/",
+      "comparison": {
+        "model": "Halo75 V2 Blue Lagoon",
+        "keyboardImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-halo-blue-lagoon-keyboard.jpg",
+        "themeImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-halo-blue-lagoon-clink.png"
+      },
+      "asset": {
+        "path": "nuphy-halo-blue-lagoon.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-halo-blue-lagoon.clinktheme",
+        "sha256": "95cc16fd1a9f172b5be56fde056548f7057b6ec0b686eef600645227e743598c",
+        "byteCount": 4125
+      }
+    },
+    {
+      "id": "nuphy-halo-mojito",
+      "name": "NuPhy Inspired Halo Mojito",
+      "version": "themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.396078431372549,
+          "g": 0.6470588235294118,
+          "r": 0.4980392156862745
+        },
+        "background": {
+          "a": 1,
+          "b": 0.6196078431372549,
+          "g": 0.8156862745098039,
+          "r": 0.7019607843137254
+        },
+        "backgroundImageFraming": {
+          "horizontalPosition": 0.5,
+          "verticalPosition": 0.5,
+          "zoom": 1
+        },
+        "berryLightAngle": 315,
+        "berryMirrorWall": true,
+        "berryOppositeEdge": "automatic",
+        "berryRampEnabled": true,
+        "berryWallSide": "left",
+        "gamepadInnerRadius": 8,
+        "gamepadVariant": "retro",
+        "glassInteractive": false,
+        "glassReflectionStrength": 1,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": {
+          "backspace": {
+            "pressed": {
+              "a": 1,
+              "b": 0.396078431372549,
+              "g": 0.6470588235294118,
+              "r": 0.4980392156862745
+            }
+          },
+          "modifiers": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.33725490196078434,
+              "g": 0.5882352941176471,
+              "r": 0.43137254901960786
+            },
+            "activeText": {
+              "a": 1,
+              "b": 0.8862745098039215,
+              "g": 0.9490196078431372,
+              "r": 0.9411764705882353
+            }
+          },
+          "return": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.5647058823529412,
+              "g": 0.7803921568627451,
+              "r": 0.6588235294117647
+            },
+            "activeText": {
+              "a": 1,
+              "b": 0.16470588235294117,
+              "g": 0.2784313725490196,
+              "r": 0.2
+            },
+            "fill": {
+              "a": 1,
+              "b": 0.5647058823529412,
+              "g": 0.7803921568627451,
+              "r": 0.6588235294117647
+            },
+            "text": {
+              "a": 1,
+              "b": 0.16470588235294117,
+              "g": 0.2784313725490196,
+              "r": 0.2
+            }
+          }
+        },
+        "id": "nuphy-halo-mojito",
+        "isDark": false,
+        "joinRows": false,
+        "keyCapShape": "rect",
+        "keyFill": {
+          "a": 1,
+          "b": 0.8862745098039215,
+          "g": 0.9490196078431372,
+          "r": 0.9411764705882353
+        },
+        "keyFontDesign": "rounded",
+        "keyFontWeight": "medium",
+        "keyImageFraming": {
+          "horizontalPosition": 0.5,
+          "verticalPosition": 0.5,
+          "zoom": 1
+        },
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {},
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.29411764705882354,
+          "g": 0.47843137254901963,
+          "r": 0.3686274509803922
+        },
+        "material": "3d",
+        "mechanicalFaceInset": 4,
+        "mechanicalInnerRadius": 50,
+        "mechanicalLightAngle": 315,
+        "mechanicalRaised": false,
+        "mechanicalShowEdges": false,
+        "name": "NuPhy Inspired Halo Mojito",
+        "source": "custom",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.5647058823529412,
+          "g": 0.7803921568627451,
+          "r": 0.6588235294117647
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.16470588235294117,
+          "g": 0.2784313725490196,
+          "r": 0.2
+        },
+        "threeDLiquidGlassGeometry": false,
+        "threeDVariant": "mechanical"
+      },
+      "link": "https://nuphy.com/",
+      "comparison": {
+        "model": "Halo75 V2 Mojito",
+        "keyboardImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-halo-mojito-keyboard.jpg",
+        "themeImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-halo-mojito-clink.png"
+      },
+      "asset": {
+        "path": "nuphy-halo-mojito.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-halo-mojito.clinktheme",
+        "sha256": "a8c721681ad4c002c7f255f927cfa31e070953b3b0157139e8ba0cd521376399",
+        "byteCount": 3538
+      }
+    },
+    {
+      "id": "nuphy-kick75",
+      "name": "NuPhy Inspired Kick75",
+      "version": "themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.3607843137254902,
+          "g": 0.7215686274509804,
+          "r": 0.3568627450980392
+        },
+        "background": {
+          "a": 1,
+          "b": 0.8862745098039215,
+          "g": 0.8980392156862745,
+          "r": 0.8745098039215686
+        },
+        "backgroundImageFraming": {
+          "horizontalPosition": 0.5,
+          "verticalPosition": 0.5,
+          "zoom": 1
+        },
+        "berryLightAngle": 315,
+        "berryMirrorWall": true,
+        "berryOppositeEdge": "automatic",
+        "berryRampEnabled": true,
+        "berryWallSide": "left",
+        "gamepadInnerRadius": 8,
+        "gamepadVariant": "retro",
+        "glassInteractive": false,
+        "glassReflectionStrength": 1,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": {
+          "backspace": {
+            "fill": {
+              "a": 1,
+              "b": 0.10588235294117647,
+              "g": 0.1843137254901961,
+              "r": 0.8313725490196079
+            },
+            "pressed": {
+              "a": 1,
+              "b": 0.07058823529411765,
+              "g": 0.13333333333333333,
+              "r": 0.6588235294117647
+            },
+            "text": {
+              "a": 1,
+              "b": 1,
+              "g": 1,
+              "r": 1
+            }
+          },
+          "modifiers": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.3607843137254902,
+              "g": 0.7215686274509804,
+              "r": 0.3568627450980392
+            },
+            "activeText": {
+              "a": 1,
+              "b": 0.058823529411764705,
+              "g": 0.1803921568627451,
+              "r": 0.054901960784313725
+            }
+          },
+          "return": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.8862745098039215,
+              "g": 0.49411764705882355,
+              "r": 0.2901960784313726
+            },
+            "activeText": {
+              "a": 1,
+              "b": 1,
+              "g": 1,
+              "r": 1
+            },
+            "fill": {
+              "a": 1,
+              "b": 0.8862745098039215,
+              "g": 0.49411764705882355,
+              "r": 0.2901960784313726
+            },
+            "text": {
+              "a": 1,
+              "b": 1,
+              "g": 1,
+              "r": 1
+            }
+          },
+          "space": {
+            "fill": {
+              "a": 1,
+              "b": 0.18823529411764706,
+              "g": 0.7607843137254902,
+              "r": 0.9490196078431372
+            },
+            "text": {
+              "a": 1,
+              "b": 0.06274509803921569,
+              "g": 0.18823529411764706,
+              "r": 0.23137254901960785
+            }
+          }
+        },
+        "id": "nuphy-kick75",
+        "isDark": false,
+        "joinRows": false,
+        "keyCapShape": "rect",
+        "keyFill": {
+          "a": 1,
+          "b": 0.9607843137254902,
+          "g": 0.9647058823529412,
+          "r": 0.9607843137254902
+        },
+        "keyFontDesign": "rounded",
+        "keyFontWeight": "semibold",
+        "keyImageFraming": {
+          "horizontalPosition": 0.5,
+          "verticalPosition": 0.5,
+          "zoom": 1
+        },
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {
+          "f:planeToggle": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.3607843137254902,
+              "g": 0.7215686274509804,
+              "r": 0.3568627450980392
+            },
+            "activeText": {
+              "a": 1,
+              "b": 0.058823529411764705,
+              "g": 0.1803921568627451,
+              "r": 0.054901960784313725
+            },
+            "fill": {
+              "a": 1,
+              "b": 0.3607843137254902,
+              "g": 0.7215686274509804,
+              "r": 0.3568627450980392
+            },
+            "text": {
+              "a": 1,
+              "b": 0.058823529411764705,
+              "g": 0.1803921568627451,
+              "r": 0.054901960784313725
+            }
+          }
+        },
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.3764705882352941,
+          "g": 0.38823529411764707,
+          "r": 0.3686274509803922
+        },
+        "material": "3d",
+        "mechanicalFaceInset": 4,
+        "mechanicalInnerRadius": 45,
+        "mechanicalLightAngle": 315,
+        "mechanicalRaised": false,
+        "mechanicalShowEdges": false,
+        "name": "NuPhy Inspired Kick75",
+        "source": "custom",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.792156862745098,
+          "g": 0.803921568627451,
+          "r": 0.7843137254901961
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.2784313725490196,
+          "g": 0.2901960784313726,
+          "r": 0.27058823529411763
+        },
+        "threeDLiquidGlassGeometry": false,
+        "threeDVariant": "mechanical"
+      },
+      "link": "https://nuphy.com/",
+      "comparison": {
+        "model": "Kick75, low-profile stock caps",
+        "keyboardImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-kick75-keyboard.jpg",
+        "themeImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-kick75-clink.png"
+      },
+      "asset": {
+        "path": "nuphy-kick75.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-kick75.clinktheme",
+        "sha256": "60f8bfd7ccbe023d2acf9a7460e4bff225110e375679825bc023681489b3d089",
+        "byteCount": 4652
+      }
+    },
+    {
+      "id": "nuphy-light",
+      "name": "NuPhy Inspired Light",
+      "version": "themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.6901960784313725,
+          "g": 0.796078431372549,
+          "r": 0.24705882352941178
+        },
+        "background": {
+          "a": 1,
+          "b": 0.8470588235294118,
+          "g": 0.8666666666666667,
+          "r": 0.8705882352941177
+        },
+        "backgroundImageFraming": {
+          "horizontalPosition": 0.5,
+          "verticalPosition": 0.5,
+          "zoom": 1
+        },
+        "berryLightAngle": 315,
+        "berryMirrorWall": true,
+        "berryOppositeEdge": "automatic",
+        "berryRampEnabled": true,
+        "berryWallSide": "left",
+        "gamepadInnerRadius": 8,
+        "gamepadVariant": "retro",
+        "glassInteractive": false,
+        "glassReflectionStrength": 1,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": {
+          "backspace": {
+            "pressed": {
+              "a": 1,
+              "b": 0.6901960784313725,
+              "g": 0.796078431372549,
+              "r": 0.24705882352941178
+            }
+          },
+          "modifiers": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.6901960784313725,
+              "g": 0.796078431372549,
+              "r": 0.24705882352941178
+            },
+            "activeText": {
+              "a": 1,
+              "b": 1,
+              "g": 1,
+              "r": 1
+            }
+          },
+          "return": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.16862745098039217,
+              "g": 0.19607843137254902,
+              "r": 0.8941176470588236
+            },
+            "activeText": {
+              "a": 1,
+              "b": 1,
+              "g": 1,
+              "r": 1
+            },
+            "fill": {
+              "a": 1,
+              "b": 0.16862745098039217,
+              "g": 0.19607843137254902,
+              "r": 0.8941176470588236
+            },
+            "text": {
+              "a": 1,
+              "b": 1,
+              "g": 1,
+              "r": 1
+            }
+          },
+          "space": {
+            "fill": {
+              "a": 1,
+              "b": 0.18823529411764706,
+              "g": 0.7607843137254902,
+              "r": 0.9490196078431372
+            },
+            "text": {
+              "a": 1,
+              "b": 0.12941176470588237,
+              "g": 0.20784313725490197,
+              "r": 0.23137254901960785
+            }
+          }
+        },
+        "id": "nuphy-light",
+        "isDark": false,
+        "joinRows": false,
+        "keyCapShape": "rect",
+        "keyFill": {
+          "a": 1,
+          "b": 0.9450980392156862,
+          "g": 0.9607843137254902,
+          "r": 0.9647058823529412
+        },
+        "keyFontDesign": "default",
+        "keyFontWeight": "medium",
+        "keyImageFraming": {
+          "horizontalPosition": 0.5,
+          "verticalPosition": 0.5,
+          "zoom": 1
+        },
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {
+          "f:planeToggle": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.6901960784313725,
+              "g": 0.796078431372549,
+              "r": 0.24705882352941178
+            },
+            "activeText": {
+              "a": 1,
+              "b": 1,
+              "g": 1,
+              "r": 1
+            },
+            "fill": {
+              "a": 1,
+              "b": 0.6901960784313725,
+              "g": 0.796078431372549,
+              "r": 0.24705882352941178
+            },
+            "text": {
+              "a": 1,
+              "b": 1,
+              "g": 1,
+              "r": 1
+            }
+          }
+        },
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.24705882352941178,
+          "g": 0.26666666666666666,
+          "r": 0.27058823529411763
+        },
+        "material": "3d",
+        "mechanicalFaceInset": 4,
+        "mechanicalInnerRadius": 50,
+        "mechanicalLightAngle": 315,
+        "mechanicalRaised": false,
+        "mechanicalShowEdges": false,
+        "name": "NuPhy Inspired Light",
+        "source": "custom",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.7058823529411765,
+          "g": 0.7215686274509804,
+          "r": 0.7176470588235294
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.1803921568627451,
+          "g": 0.19607843137254902,
+          "r": 0.2
+        },
+        "threeDLiquidGlassGeometry": false,
+        "threeDVariant": "mechanical"
+      },
+      "link": "https://nuphy.com/",
+      "comparison": {
+        "model": "Halo75 V2 Ionic White",
+        "keyboardImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-light-keyboard.jpg",
+        "themeImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-light-clink.png"
+      },
+      "asset": {
+        "path": "nuphy-light.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-light.clinktheme",
+        "sha256": "2e1e0d168dbd75ba85ad1e258f3be6b6f25e960d184bf8dcf5e6dc9335e7c9ec",
+        "byteCount": 4234
+      }
+    },
+    {
+      "id": "nuphy-node100-light-pink",
+      "name": "NuPhy Inspired Node100 Light Pink",
+      "version": "themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.6470588235294118,
+          "g": 0.7568627450980392,
+          "r": 0.41568627450980394
+        },
+        "background": {
+          "a": 1,
+          "b": 0.7647058823529411,
+          "g": 0.6862745098039216,
+          "r": 0.8666666666666667
+        },
+        "backgroundImageFraming": {
+          "horizontalPosition": 0.5,
+          "verticalPosition": 0.5,
+          "zoom": 1
+        },
+        "berryLightAngle": 315,
+        "berryMirrorWall": true,
+        "berryOppositeEdge": "automatic",
+        "berryRampEnabled": true,
+        "berryWallSide": "left",
+        "gamepadInnerRadius": 8,
+        "gamepadVariant": "retro",
+        "glassInteractive": false,
+        "glassReflectionStrength": 1,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": {
+          "backspace": {
+            "fill": {
+              "a": 1,
+              "b": 0.3058823529411765,
+              "g": 0.7215686274509804,
+              "r": 0.8549019607843137
+            },
+            "pressed": {
+              "a": 1,
+              "b": 0.2,
+              "g": 0.5882352941176471,
+              "r": 0.7098039215686275
+            },
+            "text": {
+              "a": 1,
+              "b": 0.047058823529411764,
+              "g": 0.1843137254901961,
+              "r": 0.22745098039215686
+            }
+          },
+          "modifiers": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.6392156862745098,
+              "g": 0.5411764705882353,
+              "r": 0.7490196078431373
+            },
+            "activeText": {
+              "a": 1,
+              "b": 0.9764705882352941,
+              "g": 0.9607843137254902,
+              "r": 1
+            }
+          },
+          "return": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.35294117647058826,
+              "g": 0.41568627450980394,
+              "r": 0.8392156862745098
+            },
+            "activeText": {
+              "a": 1,
+              "b": 0.9372549019607843,
+              "g": 0.9529411764705882,
+              "r": 1
+            },
+            "fill": {
+              "a": 1,
+              "b": 0.35294117647058826,
+              "g": 0.41568627450980394,
+              "r": 0.8392156862745098
+            },
+            "text": {
+              "a": 1,
+              "b": 0.9372549019607843,
+              "g": 0.9529411764705882,
+              "r": 1
+            }
+          }
+        },
+        "id": "nuphy-node100-light-pink",
+        "isDark": false,
+        "joinRows": false,
+        "keyCapShape": "rect",
+        "keyFill": {
+          "a": 1,
+          "b": 0.8980392156862745,
+          "g": 0.8549019607843137,
+          "r": 0.9490196078431372
+        },
+        "keyFontDesign": "default",
+        "keyFontWeight": "medium",
+        "keyImageFraming": {
+          "horizontalPosition": 0.5,
+          "verticalPosition": 0.5,
+          "zoom": 1
+        },
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {
+          "f:planeToggle": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.6470588235294118,
+              "g": 0.7568627450980392,
+              "r": 0.41568627450980394
+            },
+            "activeText": {
+              "a": 1,
+              "b": 0.17254901960784313,
+              "g": 0.22745098039215686,
+              "r": 0.058823529411764705
+            },
+            "fill": {
+              "a": 1,
+              "b": 0.6470588235294118,
+              "g": 0.7568627450980392,
+              "r": 0.41568627450980394
+            },
+            "text": {
+              "a": 1,
+              "b": 0.17254901960784313,
+              "g": 0.22745098039215686,
+              "r": 0.058823529411764705
+            }
+          }
+        },
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.42745098039215684,
+          "g": 0.33725490196078434,
+          "r": 0.5568627450980392
+        },
+        "material": "3d",
+        "mechanicalFaceInset": 4,
+        "mechanicalInnerRadius": 45,
+        "mechanicalLightAngle": 315,
+        "mechanicalRaised": false,
+        "mechanicalShowEdges": false,
+        "name": "NuPhy Inspired Node100 Light Pink",
+        "source": "custom",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.8980392156862745,
+          "g": 0.8549019607843137,
+          "r": 0.9490196078431372
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.42745098039215684,
+          "g": 0.33725490196078434,
+          "r": 0.5568627450980392
+        },
+        "threeDLiquidGlassGeometry": false,
+        "threeDVariant": "mechanical"
+      },
+      "link": "https://nuphy.com/",
+      "comparison": {
+        "model": "Node100 Low-profile Light Pink",
+        "keyboardImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-node100-light-pink-keyboard.jpg",
+        "themeImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-node100-light-pink-clink.png"
+      },
+      "asset": {
+        "path": "nuphy-node100-light-pink.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-node100-light-pink.clinktheme",
+        "sha256": "e39cc6e72f4a1f9f9c9633cd10733d4b91a9e8968107733dd02e2fc144386201",
+        "byteCount": 4452
+      }
+    },
+    {
+      "id": "nuphy-node75-ink-gray",
+      "name": "NuPhy Inspired Node75 Ink Gray",
+      "version": "themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.6196078431372549,
+          "g": 0.7294117647058823,
+          "r": 0.38823529411764707
+        },
+        "background": {
+          "a": 1,
+          "b": 0.1803921568627451,
+          "g": 0.1803921568627451,
+          "r": 0.1803921568627451
+        },
+        "backgroundImageFraming": {
+          "horizontalPosition": 0.5,
+          "verticalPosition": 0.5,
+          "zoom": 1
+        },
+        "berryLightAngle": 315,
+        "berryMirrorWall": true,
+        "berryOppositeEdge": "automatic",
+        "berryRampEnabled": true,
+        "berryWallSide": "left",
+        "gamepadInnerRadius": 8,
+        "gamepadVariant": "retro",
+        "glassInteractive": false,
+        "glassReflectionStrength": 1,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": {
+          "backspace": {
+            "fill": {
+              "a": 1,
+              "b": 0.25882352941176473,
+              "g": 0.6666666666666666,
+              "r": 0.803921568627451
+            },
+            "pressed": {
+              "a": 1,
+              "b": 0.17254901960784313,
+              "g": 0.5333333333333333,
+              "r": 0.6509803921568628
+            },
+            "text": {
+              "a": 1,
+              "b": 0.0392156862745098,
+              "g": 0.1607843137254902,
+              "r": 0.2
+            }
+          },
+          "modifiers": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.41568627450980394,
+              "g": 0.41568627450980394,
+              "r": 0.41568627450980394
+            },
+            "activeText": {
+              "a": 1,
+              "b": 0.9490196078431372,
+              "g": 0.9490196078431372,
+              "r": 0.9490196078431372
+            }
+          },
+          "return": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.29411764705882354,
+              "g": 0.36470588235294116,
+              "r": 0.8117647058823529
+            },
+            "activeText": {
+              "a": 1,
+              "b": 0.03137254901960784,
+              "g": 0.054901960784313725,
+              "r": 0.16470588235294117
+            },
+            "fill": {
+              "a": 1,
+              "b": 0.29411764705882354,
+              "g": 0.36470588235294116,
+              "r": 0.8117647058823529
+            },
+            "text": {
+              "a": 1,
+              "b": 0.03137254901960784,
+              "g": 0.054901960784313725,
+              "r": 0.16470588235294117
+            }
+          }
+        },
+        "id": "nuphy-node75-ink-gray",
+        "isDark": true,
+        "joinRows": false,
+        "keyCapShape": "rect",
+        "keyFill": {
+          "a": 1,
+          "b": 0.2901960784313726,
+          "g": 0.2901960784313726,
+          "r": 0.2901960784313726
+        },
+        "keyFontDesign": "default",
+        "keyFontWeight": "medium",
+        "keyImageFraming": {
+          "horizontalPosition": 0.5,
+          "verticalPosition": 0.5,
+          "zoom": 1
+        },
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {
+          "f:planeToggle": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.6196078431372549,
+              "g": 0.7294117647058823,
+              "r": 0.38823529411764707
+            },
+            "activeText": {
+              "a": 1,
+              "b": 0.1411764705882353,
+              "g": 0.1803921568627451,
+              "r": 0.050980392156862744
+            },
+            "fill": {
+              "a": 1,
+              "b": 0.6196078431372549,
+              "g": 0.7294117647058823,
+              "r": 0.38823529411764707
+            },
+            "text": {
+              "a": 1,
+              "b": 0.1411764705882353,
+              "g": 0.1803921568627451,
+              "r": 0.050980392156862744
+            }
+          }
+        },
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.8235294117647058,
+          "g": 0.8235294117647058,
+          "r": 0.8235294117647058
+        },
+        "material": "3d",
+        "mechanicalFaceInset": 4,
+        "mechanicalInnerRadius": 50,
+        "mechanicalLightAngle": 315,
+        "mechanicalRaised": true,
+        "mechanicalShowEdges": false,
+        "name": "NuPhy Inspired Node75 Ink Gray",
+        "source": "custom",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.2901960784313726,
+          "g": 0.2901960784313726,
+          "r": 0.2901960784313726
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.8235294117647058,
+          "g": 0.8235294117647058,
+          "r": 0.8235294117647058
+        },
+        "threeDLiquidGlassGeometry": false,
+        "threeDVariant": "mechanical"
+      },
+      "link": "https://nuphy.com/",
+      "comparison": {
+        "model": "Node75 High-profile Ink Gray",
+        "keyboardImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-node75-ink-gray-keyboard.jpg",
+        "themeImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-node75-ink-gray-clink.png"
+      },
+      "asset": {
+        "path": "nuphy-node75-ink-gray.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-node75-ink-gray.clinktheme",
+        "sha256": "f0a715e1e6d764067c02874dafc88c5b9700caaec528c8e824012c7584b49291",
+        "byteCount": 4496
+      }
+    },
+    {
+      "id": "nuphy-node75-lunar-white",
+      "name": "NuPhy Inspired Node75 Lunar White",
+      "version": "themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.6196078431372549,
+          "g": 0.7450980392156863,
+          "r": 0.396078431372549
+        },
+        "background": {
+          "a": 1,
+          "b": 0.7764705882352941,
+          "g": 0.8117647058823529,
+          "r": 0.8274509803921568
+        },
+        "backgroundImageFraming": {
+          "horizontalPosition": 0.5,
+          "verticalPosition": 0.5,
+          "zoom": 1
+        },
+        "berryLightAngle": 315,
+        "berryMirrorWall": true,
+        "berryOppositeEdge": "automatic",
+        "berryRampEnabled": true,
+        "berryWallSide": "left",
+        "gamepadInnerRadius": 8,
+        "gamepadVariant": "retro",
+        "glassInteractive": false,
+        "glassReflectionStrength": 1,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": {
+          "backspace": {
+            "fill": {
+              "a": 1,
+              "b": 0.26666666666666666,
+              "g": 0.6823529411764706,
+              "r": 0.8274509803921568
+            },
+            "pressed": {
+              "a": 1,
+              "b": 0.1803921568627451,
+              "g": 0.5568627450980392,
+              "r": 0.6901960784313725
+            },
+            "text": {
+              "a": 1,
+              "b": 0.047058823529411764,
+              "g": 0.1843137254901961,
+              "r": 0.22745098039215686
+            }
+          },
+          "modifiers": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.5529411764705883,
+              "g": 0.6,
+              "r": 0.6235294117647059
+            },
+            "activeText": {
+              "a": 1,
+              "b": 0.9568627450980393,
+              "g": 0.9725490196078431,
+              "r": 0.9803921568627451
+            }
+          },
+          "return": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.36470588235294116,
+              "g": 0.44313725490196076,
+              "r": 0.8588235294117647
+            },
+            "activeText": {
+              "a": 1,
+              "b": 0.9372549019607843,
+              "g": 0.9529411764705882,
+              "r": 1
+            },
+            "fill": {
+              "a": 1,
+              "b": 0.36470588235294116,
+              "g": 0.44313725490196076,
+              "r": 0.8588235294117647
+            },
+            "text": {
+              "a": 1,
+              "b": 0.9372549019607843,
+              "g": 0.9529411764705882,
+              "r": 1
+            }
+          }
+        },
+        "id": "nuphy-node75-lunar-white",
+        "isDark": false,
+        "joinRows": false,
+        "keyCapShape": "rect",
+        "keyFill": {
+          "a": 1,
+          "b": 0.8941176470588236,
+          "g": 0.9176470588235294,
+          "r": 0.9294117647058824
+        },
+        "keyFontDesign": "default",
+        "keyFontWeight": "medium",
+        "keyImageFraming": {
+          "horizontalPosition": 0.5,
+          "verticalPosition": 0.5,
+          "zoom": 1
+        },
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {
+          "f:planeToggle": {
+            "activeFill": {
+              "a": 1,
+              "b": 0.6196078431372549,
+              "g": 0.7450980392156863,
+              "r": 0.396078431372549
+            },
+            "activeText": {
+              "a": 1,
+              "b": 0.17254901960784313,
+              "g": 0.22745098039215686,
+              "r": 0.058823529411764705
+            },
+            "fill": {
+              "a": 1,
+              "b": 0.6196078431372549,
+              "g": 0.7450980392156863,
+              "r": 0.396078431372549
+            },
+            "text": {
+              "a": 1,
+              "b": 0.17254901960784313,
+              "g": 0.22745098039215686,
+              "r": 0.058823529411764705
+            }
+          }
+        },
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.3568627450980392,
+          "g": 0.3843137254901961,
+          "r": 0.4
+        },
+        "material": "3d",
+        "mechanicalFaceInset": 4,
+        "mechanicalInnerRadius": 50,
+        "mechanicalLightAngle": 315,
+        "mechanicalRaised": true,
+        "mechanicalShowEdges": false,
+        "name": "NuPhy Inspired Node75 Lunar White",
+        "source": "custom",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.8941176470588236,
+          "g": 0.9176470588235294,
+          "r": 0.9294117647058824
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.3568627450980392,
+          "g": 0.3843137254901961,
+          "r": 0.4
+        },
+        "threeDLiquidGlassGeometry": false,
+        "threeDVariant": "mechanical"
+      },
+      "link": "https://nuphy.com/",
+      "comparison": {
+        "model": "Node75 High-profile Lunar White",
+        "keyboardImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-node75-lunar-white-keyboard.jpg",
+        "themeImage": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-node75-lunar-white-clink.png"
+      },
+      "asset": {
+        "path": "nuphy-node75-lunar-white.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-nuphy/releases/download/themes-f0016d2f74f92e8c9b1598d90fe80c6c0f1d16731d8a04cdb772e7c36ab2d17b/nuphy-node75-lunar-white.clinktheme",
+        "sha256": "7717253eb0c3ec7b37b1b8f2317469c15c23f229afa504453f3e3c892bf1686a",
+        "byteCount": 4429
+      }
+    }
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "accent" : {
+    "a" : 1,
+    "b" : 0.1843137254901961,
+    "g" : 0.396078431372549,
+    "r" : 0.9098039215686274
+  },
+  "background" : {
+    "a" : 1,
+    "b" : 0.792156862745098,
+    "g" : 0.7803921568627451,
+    "r" : 0.7764705882352941
+  },
+  "backgroundImageFraming" : {
+    "horizontalPosition" : 0.5,
+    "verticalPosition" : 0.5,
+    "zoom" : 1
+  },
+  "berryLightAngle" : 315,
+  "berryMirrorWall" : true,
+  "berryOppositeEdge" : "automatic",
+  "berryRampEnabled" : true,
+  "berryWallSide" : "left",
+  "gamepadInnerRadius" : 8,
+  "gamepadVariant" : "retro",
+  "glassInteractive" : false,
+  "glassReflectionStrength" : 1,
+  "glassTintStrength" : 1,
+  "glassVariant" : "regular",
+  "groupPaint" : {
+    "backspace" : {
+      "pressed" : {
+        "a" : 1,
+        "b" : 0.1843137254901961,
+        "g" : 0.396078431372549,
+        "r" : 0.9098039215686274
+      }
+    },
+    "modifiers" : {
+      "activeFill" : {
+        "a" : 1,
+        "b" : 0.1843137254901961,
+        "g" : 0.396078431372549,
+        "r" : 0.9098039215686274
+      },
+      "activeText" : {
+        "a" : 1,
+        "b" : 1,
+        "g" : 1,
+        "r" : 1
+      }
+    },
+    "return" : {
+      "activeFill" : {
+        "a" : 1,
+        "b" : 0.1843137254901961,
+        "g" : 0.396078431372549,
+        "r" : 0.9098039215686274
+      },
+      "activeText" : {
+        "a" : 1,
+        "b" : 1,
+        "g" : 1,
+        "r" : 1
+      },
+      "fill" : {
+        "a" : 1,
+        "b" : 0.1843137254901961,
+        "g" : 0.396078431372549,
+        "r" : 0.9098039215686274
+      },
+      "text" : {
+        "a" : 1,
+        "b" : 1,
+        "g" : 1,
+        "r" : 1
+      }
+    }
+  },
+  "id" : "nuphy-field75-he",
+  "isDark" : false,
+  "joinRows" : false,
+  "keyCapShape" : "rect",
+  "keyFill" : {
+    "a" : 1,
+    "b" : 0.33725490196078434,
+    "g" : 0.30980392156862746,
+    "r" : 0.2901960784313726
+  },
+  "keyFontDesign" : "default",
+  "keyFontWeight" : "medium",
+  "keyImageFraming" : {
+    "horizontalPosition" : 0.5,
+    "verticalPosition" : 0.5,
+    "zoom" : 1
+  },
+  "keyInnerShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyInnerStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyOuterStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyPaint" : {
+    "f:globe" : {
+      "activeFill" : {
+        "a" : 1,
+        "b" : 0.1843137254901961,
+        "g" : 0.396078431372549,
+        "r" : 0.9098039215686274
+      },
+      "activeText" : {
+        "a" : 1,
+        "b" : 1,
+        "g" : 1,
+        "r" : 1
+      },
+      "fill" : {
+        "a" : 1,
+        "b" : 0.1843137254901961,
+        "g" : 0.396078431372549,
+        "r" : 0.9098039215686274
+      },
+      "text" : {
+        "a" : 1,
+        "b" : 1,
+        "g" : 1,
+        "r" : 1
+      }
+    },
+    "f:planeToggle" : {
+      "activeFill" : {
+        "a" : 1,
+        "b" : 0.1843137254901961,
+        "g" : 0.396078431372549,
+        "r" : 0.9098039215686274
+      },
+      "activeText" : {
+        "a" : 1,
+        "b" : 1,
+        "g" : 1,
+        "r" : 1
+      },
+      "fill" : {
+        "a" : 1,
+        "b" : 0.1843137254901961,
+        "g" : 0.396078431372549,
+        "r" : 0.9098039215686274
+      },
+      "text" : {
+        "a" : 1,
+        "b" : 1,
+        "g" : 1,
+        "r" : 1
+      }
+    }
+  },
+  "keyShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyText" : {
+    "a" : 1,
+    "b" : 0.9294117647058824,
+    "g" : 0.9294117647058824,
+    "r" : 0.9294117647058824
+  },
+  "material" : "3d",
+  "mechanicalFaceInset" : 4,
+  "mechanicalInnerRadius" : 20,
+  "mechanicalLightAngle" : 315,
+  "mechanicalRaised" : false,
+  "mechanicalShowEdges" : false,
+  "name" : "NuPhy Inspired Field75 HE",
+  "source" : "custom",
+  "specialKeyFill" : {
+    "a" : 1,
+    "b" : 0.9411764705882353,
+    "g" : 0.9411764705882353,
+    "r" : 0.9411764705882353
+  },
+  "specialKeyText" : {
+    "a" : 1,
+    "b" : 0.33725490196078434,
+    "g" : 0.30980392156862746,
+    "r" : 0.2901960784313726
+  },
+  "threeDLiquidGlassGeometry" : false,
+  "threeDVariant" : "mechanical"
+}

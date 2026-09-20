@@ -1,0 +1,36 @@
+name: Release NuPhy Inspired themes
+on:
+  push:
+    branches: [main]
+    paths: ["Themes/**", "Images/**", "comparisons.json", "tools/**", "tests/**", ".github/workflows/release.yml"]
+  workflow_dispatch:
+concurrency:
+  group: nuphy-theme-release
+  cancel-in-progress: false
+permissions:
+  contents: write
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 -m unittest discover -s tests
+      - run: python3 tools/build-manifest.py
+      - name: Publish immutable assets
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          assets=(Themes/*.clinktheme Images/* manifest.json)
+          tag=$(python3 -c 'import json; print(json.load(open("manifest.json"))["version"])')
+          if draft=$(gh release view "$tag" --json isDraft --jq .isDraft); then
+            if [ "$draft" = true ]; then
+              gh release upload "$tag" "${assets[@]}" --clobber
+              gh release edit "$tag" --draft=false --latest
+            else
+              gh release edit "$tag" --latest
+            fi
+          else
+            gh release create "$tag" "${assets[@]}" --target "$GITHUB_SHA" --title "NuPhy Inspired themes" --draft
+            gh release edit "$tag" --draft=false --latest
+          fi

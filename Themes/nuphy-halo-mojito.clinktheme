@@ -1,0 +1,172 @@
+{
+  "accent" : {
+    "a" : 1,
+    "b" : 0.396078431372549,
+    "g" : 0.6470588235294118,
+    "r" : 0.4980392156862745
+  },
+  "background" : {
+    "a" : 1,
+    "b" : 0.6196078431372549,
+    "g" : 0.8156862745098039,
+    "r" : 0.7019607843137254
+  },
+  "backgroundImageFraming" : {
+    "horizontalPosition" : 0.5,
+    "verticalPosition" : 0.5,
+    "zoom" : 1
+  },
+  "berryLightAngle" : 315,
+  "berryMirrorWall" : true,
+  "berryOppositeEdge" : "automatic",
+  "berryRampEnabled" : true,
+  "berryWallSide" : "left",
+  "gamepadInnerRadius" : 8,
+  "gamepadVariant" : "retro",
+  "glassInteractive" : false,
+  "glassReflectionStrength" : 1,
+  "glassTintStrength" : 1,
+  "glassVariant" : "regular",
+  "groupPaint" : {
+    "backspace" : {
+      "pressed" : {
+        "a" : 1,
+        "b" : 0.396078431372549,
+        "g" : 0.6470588235294118,
+        "r" : 0.4980392156862745
+      }
+    },
+    "modifiers" : {
+      "activeFill" : {
+        "a" : 1,
+        "b" : 0.33725490196078434,
+        "g" : 0.5882352941176471,
+        "r" : 0.43137254901960786
+      },
+      "activeText" : {
+        "a" : 1,
+        "b" : 0.8862745098039215,
+        "g" : 0.9490196078431372,
+        "r" : 0.9411764705882353
+      }
+    },
+    "return" : {
+      "activeFill" : {
+        "a" : 1,
+        "b" : 0.5647058823529412,
+        "g" : 0.7803921568627451,
+        "r" : 0.6588235294117647
+      },
+      "activeText" : {
+        "a" : 1,
+        "b" : 0.16470588235294117,
+        "g" : 0.2784313725490196,
+        "r" : 0.2
+      },
+      "fill" : {
+        "a" : 1,
+        "b" : 0.5647058823529412,
+        "g" : 0.7803921568627451,
+        "r" : 0.6588235294117647
+      },
+      "text" : {
+        "a" : 1,
+        "b" : 0.16470588235294117,
+        "g" : 0.2784313725490196,
+        "r" : 0.2
+      }
+    }
+  },
+  "id" : "nuphy-halo-mojito",
+  "isDark" : false,
+  "joinRows" : false,
+  "keyCapShape" : "rect",
+  "keyFill" : {
+    "a" : 1,
+    "b" : 0.8862745098039215,
+    "g" : 0.9490196078431372,
+    "r" : 0.9411764705882353
+  },
+  "keyFontDesign" : "rounded",
+  "keyFontWeight" : "medium",
+  "keyImageFraming" : {
+    "horizontalPosition" : 0.5,
+    "verticalPosition" : 0.5,
+    "zoom" : 1
+  },
+  "keyInnerShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyInnerStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyOuterStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyPaint" : {
+
+  },
+  "keyShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyText" : {
+    "a" : 1,
+    "b" : 0.29411764705882354,
+    "g" : 0.47843137254901963,
+    "r" : 0.3686274509803922
+  },
+  "material" : "3d",
+  "mechanicalFaceInset" : 4,
+  "mechanicalInnerRadius" : 50,
+  "mechanicalLightAngle" : 315,
+  "mechanicalRaised" : false,
+  "mechanicalShowEdges" : false,
+  "name" : "NuPhy Inspired Halo Mojito",
+  "source" : "custom",
+  "specialKeyFill" : {
+    "a" : 1,
+    "b" : 0.5647058823529412,
+    "g" : 0.7803921568627451,
+    "r" : 0.6588235294117647
+  },
+  "specialKeyText" : {
+    "a" : 1,
+    "b" : 0.16470588235294117,
+    "g" : 0.2784313725490196,
+    "r" : 0.2
+  },
+  "threeDLiquidGlassGeometry" : false,
+  "threeDVariant" : "mechanical"
+}

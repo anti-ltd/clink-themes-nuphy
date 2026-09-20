@@ -1,0 +1,196 @@
+{
+  "accent" : {
+    "a" : 1,
+    "b" : 0.9254901960784314,
+    "g" : 0.7647058823529411,
+    "r" : 0.5607843137254902
+  },
+  "background" : {
+    "a" : 1,
+    "b" : 0.6274509803921569,
+    "g" : 0.33725490196078434,
+    "r" : 0.10196078431372549
+  },
+  "backgroundEffect" : {
+    "blend" : "glow",
+    "colorMode" : "custom",
+    "customColor" : {
+      "a" : 1,
+      "b" : 1,
+      "g" : 0.7843137254901961,
+      "r" : 0.4980392156862745
+    },
+    "customColor2" : {
+      "a" : 1,
+      "b" : 0.8784313725490196,
+      "g" : 0.4980392156862745,
+      "r" : 0.24705882352941178
+    },
+    "density" : 0.5,
+    "intensity" : 0.45,
+    "reactionStrength" : 1,
+    "reactive" : true,
+    "scale" : 1,
+    "secondaryColorMode" : "custom",
+    "speed" : 0.6,
+    "style" : "waves"
+  },
+  "backgroundImageFraming" : {
+    "horizontalPosition" : 0.5,
+    "verticalPosition" : 0.5,
+    "zoom" : 1
+  },
+  "berryLightAngle" : 315,
+  "berryMirrorWall" : true,
+  "berryOppositeEdge" : "automatic",
+  "berryRampEnabled" : true,
+  "berryWallSide" : "left",
+  "gamepadInnerRadius" : 8,
+  "gamepadVariant" : "retro",
+  "glassInteractive" : false,
+  "glassReflectionStrength" : 1,
+  "glassTintStrength" : 1,
+  "glassVariant" : "regular",
+  "groupPaint" : {
+    "backspace" : {
+      "pressed" : {
+        "a" : 1,
+        "b" : 0.9254901960784314,
+        "g" : 0.7647058823529411,
+        "r" : 0.5607843137254902
+      }
+    },
+    "modifiers" : {
+      "activeFill" : {
+        "a" : 1,
+        "b" : 0.9254901960784314,
+        "g" : 0.7647058823529411,
+        "r" : 0.5607843137254902
+      },
+      "activeText" : {
+        "a" : 1,
+        "b" : 0.3215686274509804,
+        "g" : 0.16470588235294117,
+        "r" : 0.0392156862745098
+      }
+    },
+    "return" : {
+      "activeFill" : {
+        "a" : 1,
+        "b" : 0.7686274509803922,
+        "g" : 0.596078431372549,
+        "r" : 0.3803921568627451
+      },
+      "activeText" : {
+        "a" : 1,
+        "b" : 0.9529411764705882,
+        "g" : 0.9098039215686274,
+        "r" : 0.8666666666666667
+      },
+      "fill" : {
+        "a" : 1,
+        "b" : 0.7686274509803922,
+        "g" : 0.596078431372549,
+        "r" : 0.3803921568627451
+      },
+      "text" : {
+        "a" : 1,
+        "b" : 0.9529411764705882,
+        "g" : 0.9098039215686274,
+        "r" : 0.8666666666666667
+      }
+    }
+  },
+  "id" : "nuphy-halo-blue-lagoon",
+  "isDark" : true,
+  "joinRows" : false,
+  "keyCapShape" : "rect",
+  "keyFill" : {
+    "a" : 1,
+    "b" : 0.47058823529411764,
+    "g" : 0.23921568627450981,
+    "r" : 0.047058823529411764
+  },
+  "keyFontDesign" : "rounded",
+  "keyFontWeight" : "medium",
+  "keyImageFraming" : {
+    "horizontalPosition" : 0.5,
+    "verticalPosition" : 0.5,
+    "zoom" : 1
+  },
+  "keyInnerShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyInnerStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyOuterStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyPaint" : {
+
+  },
+  "keyShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyText" : {
+    "a" : 1,
+    "b" : 0.9529411764705882,
+    "g" : 0.9098039215686274,
+    "r" : 0.8666666666666667
+  },
+  "material" : "3d",
+  "mechanicalFaceInset" : 4,
+  "mechanicalInnerRadius" : 50,
+  "mechanicalLightAngle" : 315,
+  "mechanicalRaised" : false,
+  "mechanicalShowEdges" : false,
+  "name" : "NuPhy Inspired Halo Blue Lagoon",
+  "source" : "custom",
+  "specialKeyFill" : {
+    "a" : 1,
+    "b" : 0.7686274509803922,
+    "g" : 0.596078431372549,
+    "r" : 0.3803921568627451
+  },
+  "specialKeyText" : {
+    "a" : 1,
+    "b" : 0.9529411764705882,
+    "g" : 0.9098039215686274,
+    "r" : 0.8666666666666667
+  },
+  "threeDLiquidGlassGeometry" : false,
+  "threeDVariant" : "mechanical"
+}

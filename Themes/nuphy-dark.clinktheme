@@ -1,0 +1,211 @@
+{
+  "accent" : {
+    "a" : 1,
+    "b" : 0.6901960784313725,
+    "g" : 0.796078431372549,
+    "r" : 0.24705882352941178
+  },
+  "background" : {
+    "a" : 1,
+    "b" : 0.08627450980392157,
+    "g" : 0.08235294117647059,
+    "r" : 0.08235294117647059
+  },
+  "backgroundImageFraming" : {
+    "horizontalPosition" : 0.5,
+    "verticalPosition" : 0.5,
+    "zoom" : 1
+  },
+  "berryLightAngle" : 315,
+  "berryMirrorWall" : true,
+  "berryOppositeEdge" : "automatic",
+  "berryRampEnabled" : true,
+  "berryWallSide" : "left",
+  "gamepadInnerRadius" : 8,
+  "gamepadVariant" : "retro",
+  "glassInteractive" : false,
+  "glassReflectionStrength" : 1,
+  "glassTintStrength" : 1,
+  "glassVariant" : "regular",
+  "groupPaint" : {
+    "backspace" : {
+      "pressed" : {
+        "a" : 1,
+        "b" : 0.6901960784313725,
+        "g" : 0.796078431372549,
+        "r" : 0.24705882352941178
+      }
+    },
+    "modifiers" : {
+      "activeFill" : {
+        "a" : 1,
+        "b" : 0.6901960784313725,
+        "g" : 0.796078431372549,
+        "r" : 0.24705882352941178
+      },
+      "activeText" : {
+        "a" : 1,
+        "b" : 1,
+        "g" : 1,
+        "r" : 1
+      }
+    },
+    "return" : {
+      "activeFill" : {
+        "a" : 1,
+        "b" : 0.29411764705882354,
+        "g" : 0.33725490196078434,
+        "r" : 0.9490196078431372
+      },
+      "activeText" : {
+        "a" : 1,
+        "b" : 1,
+        "g" : 1,
+        "r" : 1
+      },
+      "fill" : {
+        "a" : 1,
+        "b" : 0.29411764705882354,
+        "g" : 0.33725490196078434,
+        "r" : 0.9490196078431372
+      },
+      "text" : {
+        "a" : 1,
+        "b" : 1,
+        "g" : 1,
+        "r" : 1
+      }
+    },
+    "space" : {
+      "fill" : {
+        "a" : 1,
+        "b" : 0.24705882352941178,
+        "g" : 0.7647058823529411,
+        "r" : 0.9372549019607843
+      },
+      "text" : {
+        "a" : 1,
+        "b" : 0.06274509803921569,
+        "g" : 0.17254901960784313,
+        "r" : 0.20784313725490197
+      }
+    }
+  },
+  "id" : "nuphy-dark",
+  "isDark" : true,
+  "joinRows" : false,
+  "keyCapShape" : "rect",
+  "keyFill" : {
+    "a" : 1,
+    "b" : 0.16470588235294117,
+    "g" : 0.1568627450980392,
+    "r" : 0.15294117647058825
+  },
+  "keyFontDesign" : "default",
+  "keyFontWeight" : "medium",
+  "keyImageFraming" : {
+    "horizontalPosition" : 0.5,
+    "verticalPosition" : 0.5,
+    "zoom" : 1
+  },
+  "keyInnerShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyInnerStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyOuterStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyPaint" : {
+    "f:planeToggle" : {
+      "activeFill" : {
+        "a" : 1,
+        "b" : 0.6901960784313725,
+        "g" : 0.796078431372549,
+        "r" : 0.24705882352941178
+      },
+      "activeText" : {
+        "a" : 1,
+        "b" : 1,
+        "g" : 1,
+        "r" : 1
+      },
+      "fill" : {
+        "a" : 1,
+        "b" : 0.6901960784313725,
+        "g" : 0.796078431372549,
+        "r" : 0.24705882352941178
+      },
+      "text" : {
+        "a" : 1,
+        "b" : 1,
+        "g" : 1,
+        "r" : 1
+      }
+    }
+  },
+  "keyShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyText" : {
+    "a" : 1,
+    "b" : 0.9176470588235294,
+    "g" : 0.9294117647058824,
+    "r" : 0.9294117647058824
+  },
+  "material" : "3d",
+  "mechanicalFaceInset" : 4,
+  "mechanicalInnerRadius" : 50,
+  "mechanicalLightAngle" : 315,
+  "mechanicalRaised" : false,
+  "mechanicalShowEdges" : false,
+  "name" : "NuPhy Inspired Dark",
+  "source" : "custom",
+  "specialKeyFill" : {
+    "a" : 1,
+    "b" : 0.24313725490196078,
+    "g" : 0.23529411764705882,
+    "r" : 0.23137254901960785
+  },
+  "specialKeyText" : {
+    "a" : 1,
+    "b" : 0.796078431372549,
+    "g" : 0.8117647058823529,
+    "r" : 0.8117647058823529
+  },
+  "threeDLiquidGlassGeometry" : false,
+  "threeDVariant" : "mechanical"
+}

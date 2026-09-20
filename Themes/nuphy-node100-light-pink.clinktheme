@@ -1,0 +1,209 @@
+{
+  "accent" : {
+    "a" : 1,
+    "b" : 0.6470588235294118,
+    "g" : 0.7568627450980392,
+    "r" : 0.41568627450980394
+  },
+  "background" : {
+    "a" : 1,
+    "b" : 0.7647058823529411,
+    "g" : 0.6862745098039216,
+    "r" : 0.8666666666666667
+  },
+  "backgroundImageFraming" : {
+    "horizontalPosition" : 0.5,
+    "verticalPosition" : 0.5,
+    "zoom" : 1
+  },
+  "berryLightAngle" : 315,
+  "berryMirrorWall" : true,
+  "berryOppositeEdge" : "automatic",
+  "berryRampEnabled" : true,
+  "berryWallSide" : "left",
+  "gamepadInnerRadius" : 8,
+  "gamepadVariant" : "retro",
+  "glassInteractive" : false,
+  "glassReflectionStrength" : 1,
+  "glassTintStrength" : 1,
+  "glassVariant" : "regular",
+  "groupPaint" : {
+    "backspace" : {
+      "fill" : {
+        "a" : 1,
+        "b" : 0.3058823529411765,
+        "g" : 0.7215686274509804,
+        "r" : 0.8549019607843137
+      },
+      "pressed" : {
+        "a" : 1,
+        "b" : 0.2,
+        "g" : 0.5882352941176471,
+        "r" : 0.7098039215686275
+      },
+      "text" : {
+        "a" : 1,
+        "b" : 0.047058823529411764,
+        "g" : 0.1843137254901961,
+        "r" : 0.22745098039215686
+      }
+    },
+    "modifiers" : {
+      "activeFill" : {
+        "a" : 1,
+        "b" : 0.6392156862745098,
+        "g" : 0.5411764705882353,
+        "r" : 0.7490196078431373
+      },
+      "activeText" : {
+        "a" : 1,
+        "b" : 0.9764705882352941,
+        "g" : 0.9607843137254902,
+        "r" : 1
+      }
+    },
+    "return" : {
+      "activeFill" : {
+        "a" : 1,
+        "b" : 0.35294117647058826,
+        "g" : 0.41568627450980394,
+        "r" : 0.8392156862745098
+      },
+      "activeText" : {
+        "a" : 1,
+        "b" : 0.9372549019607843,
+        "g" : 0.9529411764705882,
+        "r" : 1
+      },
+      "fill" : {
+        "a" : 1,
+        "b" : 0.35294117647058826,
+        "g" : 0.41568627450980394,
+        "r" : 0.8392156862745098
+      },
+      "text" : {
+        "a" : 1,
+        "b" : 0.9372549019607843,
+        "g" : 0.9529411764705882,
+        "r" : 1
+      }
+    }
+  },
+  "id" : "nuphy-node100-light-pink",
+  "isDark" : false,
+  "joinRows" : false,
+  "keyCapShape" : "rect",
+  "keyFill" : {
+    "a" : 1,
+    "b" : 0.8980392156862745,
+    "g" : 0.8549019607843137,
+    "r" : 0.9490196078431372
+  },
+  "keyFontDesign" : "default",
+  "keyFontWeight" : "medium",
+  "keyImageFraming" : {
+    "horizontalPosition" : 0.5,
+    "verticalPosition" : 0.5,
+    "zoom" : 1
+  },
+  "keyInnerShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyInnerStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyOuterStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyPaint" : {
+    "f:planeToggle" : {
+      "activeFill" : {
+        "a" : 1,
+        "b" : 0.6470588235294118,
+        "g" : 0.7568627450980392,
+        "r" : 0.41568627450980394
+      },
+      "activeText" : {
+        "a" : 1,
+        "b" : 0.17254901960784313,
+        "g" : 0.22745098039215686,
+        "r" : 0.058823529411764705
+      },
+      "fill" : {
+        "a" : 1,
+        "b" : 0.6470588235294118,
+        "g" : 0.7568627450980392,
+        "r" : 0.41568627450980394
+      },
+      "text" : {
+        "a" : 1,
+        "b" : 0.17254901960784313,
+        "g" : 0.22745098039215686,
+        "r" : 0.058823529411764705
+      }
+    }
+  },
+  "keyShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyText" : {
+    "a" : 1,
+    "b" : 0.42745098039215684,
+    "g" : 0.33725490196078434,
+    "r" : 0.5568627450980392
+  },
+  "material" : "3d",
+  "mechanicalFaceInset" : 4,
+  "mechanicalInnerRadius" : 45,
+  "mechanicalLightAngle" : 315,
+  "mechanicalRaised" : false,
+  "mechanicalShowEdges" : false,
+  "name" : "NuPhy Inspired Node100 Light Pink",
+  "source" : "custom",
+  "specialKeyFill" : {
+    "a" : 1,
+    "b" : 0.8980392156862745,
+    "g" : 0.8549019607843137,
+    "r" : 0.9490196078431372
+  },
+  "specialKeyText" : {
+    "a" : 1,
+    "b" : 0.42745098039215684,
+    "g" : 0.33725490196078434,
+    "r" : 0.5568627450980392
+  },
+  "threeDLiquidGlassGeometry" : false,
+  "threeDVariant" : "mechanical"
+}

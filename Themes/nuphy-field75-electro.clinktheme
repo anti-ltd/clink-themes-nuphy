@@ -1,0 +1,197 @@
+{
+  "accent" : {
+    "a" : 1,
+    "b" : 0.35294117647058826,
+    "g" : 0.8627450980392157,
+    "r" : 0.7176470588235294
+  },
+  "background" : {
+    "a" : 1,
+    "b" : 0.08627450980392157,
+    "g" : 0.08627450980392157,
+    "r" : 0.08627450980392157
+  },
+  "backgroundImageFraming" : {
+    "horizontalPosition" : 0.5,
+    "verticalPosition" : 0.5,
+    "zoom" : 1
+  },
+  "berryLightAngle" : 315,
+  "berryMirrorWall" : true,
+  "berryOppositeEdge" : "automatic",
+  "berryRampEnabled" : true,
+  "berryWallSide" : "left",
+  "gamepadInnerRadius" : 8,
+  "gamepadVariant" : "retro",
+  "glassInteractive" : false,
+  "glassReflectionStrength" : 1,
+  "glassTintStrength" : 1,
+  "glassVariant" : "regular",
+  "groupPaint" : {
+    "backspace" : {
+      "pressed" : {
+        "a" : 1,
+        "b" : 0.35294117647058826,
+        "g" : 0.8627450980392157,
+        "r" : 0.7176470588235294
+      }
+    },
+    "modifiers" : {
+      "activeFill" : {
+        "a" : 1,
+        "b" : 0.35294117647058826,
+        "g" : 0.8627450980392157,
+        "r" : 0.7176470588235294
+      },
+      "activeText" : {
+        "a" : 1,
+        "b" : 0.10196078431372549,
+        "g" : 0.10196078431372549,
+        "r" : 0.10196078431372549
+      }
+    },
+    "return" : {
+      "activeFill" : {
+        "a" : 1,
+        "b" : 0.35294117647058826,
+        "g" : 0.8627450980392157,
+        "r" : 0.7176470588235294
+      },
+      "activeText" : {
+        "a" : 1,
+        "b" : 0.10196078431372549,
+        "g" : 0.10196078431372549,
+        "r" : 0.10196078431372549
+      },
+      "fill" : {
+        "a" : 1,
+        "b" : 0.35294117647058826,
+        "g" : 0.8627450980392157,
+        "r" : 0.7176470588235294
+      },
+      "text" : {
+        "a" : 1,
+        "b" : 0.10196078431372549,
+        "g" : 0.10196078431372549,
+        "r" : 0.10196078431372549
+      }
+    }
+  },
+  "id" : "nuphy-field75-electro",
+  "isDark" : true,
+  "joinRows" : false,
+  "keyCapShape" : "rect",
+  "keyFill" : {
+    "a" : 1,
+    "b" : 0.12156862745098039,
+    "g" : 0.1450980392156863,
+    "r" : 0.1411764705882353
+  },
+  "keyFontDesign" : "default",
+  "keyFontWeight" : "medium",
+  "keyImageFraming" : {
+    "horizontalPosition" : 0.5,
+    "verticalPosition" : 0.5,
+    "zoom" : 1
+  },
+  "keyInnerShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyInnerStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyOuterStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyPaint" : {
+    "f:planeToggle" : {
+      "activeFill" : {
+        "a" : 1,
+        "b" : 0.35294117647058826,
+        "g" : 0.8627450980392157,
+        "r" : 0.7176470588235294
+      },
+      "activeText" : {
+        "a" : 1,
+        "b" : 0.10196078431372549,
+        "g" : 0.10196078431372549,
+        "r" : 0.10196078431372549
+      },
+      "fill" : {
+        "a" : 1,
+        "b" : 0.35294117647058826,
+        "g" : 0.8627450980392157,
+        "r" : 0.7176470588235294
+      },
+      "text" : {
+        "a" : 1,
+        "b" : 0.10196078431372549,
+        "g" : 0.10196078431372549,
+        "r" : 0.10196078431372549
+      }
+    }
+  },
+  "keyShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyText" : {
+    "a" : 1,
+    "b" : 0.35294117647058826,
+    "g" : 0.8627450980392157,
+    "r" : 0.7176470588235294
+  },
+  "material" : "3d",
+  "mechanicalFaceInset" : 4,
+  "mechanicalInnerRadius" : 25,
+  "mechanicalLightAngle" : 315,
+  "mechanicalRaised" : false,
+  "mechanicalShowEdges" : false,
+  "name" : "NuPhy Inspired Field75 Electro",
+  "source" : "custom",
+  "specialKeyFill" : {
+    "a" : 1,
+    "b" : 0.48627450980392156,
+    "g" : 0.5058823529411764,
+    "r" : 0.49411764705882355
+  },
+  "specialKeyText" : {
+    "a" : 1,
+    "b" : 0.10196078431372549,
+    "g" : 0.11372549019607843,
+    "r" : 0.10980392156862745
+  },
+  "threeDLiquidGlassGeometry" : false,
+  "threeDVariant" : "mechanical"
+}
