@@ -1,138 +1,172 @@
 {
   "nuphy-light": {
     "model": "Halo75 V2 Ionic White",
-    "keyboardImage": "nuphy-light-keyboard.jpg",
+    "keyboardImage": "nuphy-light-keyboard.png",
     "themeImage": "nuphy-light-clink.png",
     "sourcePage": "https://nuphy.com/products/halo75-v2-qmk-via-wireless-custom-mechanical-keyboard",
     "sourceImage": "https://cdn.shopify.com/s/files/1/0268/7297/1373/files/Main05v3.jpg?v=1776418966",
-    "description": "NuPhy inspired theme based on Halo75 V2 Ionic White."
+    "description": "NuPhy inspired theme based on Halo75 V2 Ionic White.",
+    "backgroundProcessing": "Local background removal from the original product image; keyboard detail retained.",
+    "transparentBackground": true
   },
   "nuphy-dark": {
     "model": "Halo75 V2 Obsidian Black",
-    "keyboardImage": "nuphy-dark-keyboard.jpg",
+    "keyboardImage": "nuphy-dark-keyboard.png",
     "themeImage": "nuphy-dark-clink.png",
     "sourcePage": "https://nuphy.com/products/halo75-v2-qmk-via-wireless-custom-mechanical-keyboard",
     "sourceImage": "https://cdn.shopify.com/s/files/1/0268/7297/1373/files/Main01v4.jpg?v=1776418966",
-    "description": "NuPhy inspired theme based on Halo75 V2 Obsidian Black."
+    "description": "NuPhy inspired theme based on Halo75 V2 Obsidian Black.",
+    "backgroundProcessing": "Local background removal from the original product image; keyboard detail retained.",
+    "transparentBackground": true
   },
   "nuphy-air75-nova-white": {
     "model": "Air75 V3 Nova White",
-    "keyboardImage": "nuphy-air75-nova-white-keyboard.jpg",
+    "keyboardImage": "nuphy-air75-nova-white-keyboard.png",
     "themeImage": "nuphy-air75-nova-white-clink.png",
     "sourcePage": "https://nuphy.com/products/nuphy-air75-v3",
-    "sourceImage": "https://cdn.shopify.com/s/files/1/0268/7297/1373/files/2.4_Air75_v3.jpg?v=1770183820",
-    "description": "NuPhy inspired theme based on Air75 V3 Nova White."
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0268/7297/1373/files/Air75V3-UK-w.png?v=1770712215",
+    "description": "NuPhy inspired theme based on Air75 V3 Nova White.",
+    "sourceLayout": "ISO-UK",
+    "transparentBackground": true
   },
   "nuphy-air75-nebula-dark": {
     "model": "Air75 V3 Nebula Dark",
-    "keyboardImage": "nuphy-air75-nebula-dark-keyboard.jpg",
+    "keyboardImage": "nuphy-air75-nebula-dark-keyboard.png",
     "themeImage": "nuphy-air75-nebula-dark-clink.png",
     "sourcePage": "https://nuphy.com/products/nuphy-air75-v3",
     "sourceImage": "https://cdn.shopify.com/s/files/1/0268/7297/1373/files/Air75_V3_Main04_v2_1800x_F5F5F5.jpg?v=1770712215",
-    "description": "NuPhy inspired theme based on Air75 V3 Nebula Dark."
+    "description": "NuPhy inspired theme based on Air75 V3 Nebula Dark.",
+    "backgroundProcessing": "Local background removal from the original product image; keyboard detail retained.",
+    "transparentBackground": true
   },
   "nuphy-air75-he": {
     "model": "Air75 HE, stock grey/violet caps",
-    "keyboardImage": "nuphy-air75-he-keyboard.jpg",
+    "keyboardImage": "nuphy-air75-he-keyboard.png",
     "themeImage": "nuphy-air75-he-clink.png",
     "sourcePage": "https://nuphy.com/products/nuphy-air75-he-magnetic-switch-gaming-keyboard",
     "sourceImage": "https://cdn.shopify.com/s/files/1/0268/7297/1373/files/Main01v4_67066690-d367-45de-89b2-010c1a7702f8.jpg?v=1744134181",
-    "description": "NuPhy inspired theme based on Air75 HE, stock grey/violet caps."
+    "description": "NuPhy inspired theme based on Air75 HE, stock grey/violet caps.",
+    "backgroundProcessing": "Local background removal from the original product image; keyboard detail retained.",
+    "transparentBackground": true
   },
   "nuphy-halo-mojito": {
     "model": "Halo75 V2 Mojito",
-    "keyboardImage": "nuphy-halo-mojito-keyboard.jpg",
+    "keyboardImage": "nuphy-halo-mojito-keyboard.png",
     "themeImage": "nuphy-halo-mojito-clink.png",
     "sourcePage": "https://nuphy.com/products/halo75-v2-qmk-via-wireless-custom-mechanical-keyboard",
     "sourceImage": "https://cdn.shopify.com/s/files/1/0268/7297/1373/files/Main09v4.jpg?v=1776418966",
-    "description": "NuPhy inspired theme based on Halo75 V2 Mojito."
+    "description": "NuPhy inspired theme based on Halo75 V2 Mojito.",
+    "backgroundProcessing": "Local background removal from the original product image; keyboard detail retained.",
+    "transparentBackground": true
   },
   "nuphy-halo-blue-lagoon": {
     "model": "Halo75 V2 Blue Lagoon",
-    "keyboardImage": "nuphy-halo-blue-lagoon-keyboard.jpg",
+    "keyboardImage": "nuphy-halo-blue-lagoon-keyboard.png",
     "themeImage": "nuphy-halo-blue-lagoon-clink.png",
     "sourcePage": "https://nuphy.com/products/halo75-v2-qmk-via-wireless-custom-mechanical-keyboard",
     "sourceImage": "https://cdn.shopify.com/s/files/1/0268/7297/1373/files/Main13v4.jpg?v=1776418966",
-    "description": "NuPhy inspired theme based on Halo75 V2 Blue Lagoon."
+    "description": "NuPhy inspired theme based on Halo75 V2 Blue Lagoon.",
+    "backgroundProcessing": "Local background removal from the original product image; keyboard detail retained.",
+    "transparentBackground": true
   },
   "nuphy-field75-electro": {
     "model": "Field75 Electro, original model",
-    "keyboardImage": "nuphy-field75-electro-keyboard.jpg",
+    "keyboardImage": "nuphy-field75-electro-keyboard.png",
     "themeImage": "nuphy-field75-electro-clink.png",
     "sourcePage": "https://nuphy.com.au/products/field75-wireless-mechanical-gaming-keyboard",
     "sourceImage": "https://cdn.shopify.com/s/files/1/0767/4622/8017/files/Field75_Hero1Electro_230406_1800x1800_10f14669-be32-41d7-b86c-f29dd658551f.png?v=1705983208",
-    "description": "NuPhy inspired theme based on Field75 Electro, original model."
+    "description": "NuPhy inspired theme based on Field75 Electro, original model.",
+    "backgroundProcessing": "Local background removal from the original product image; keyboard detail retained.",
+    "transparentBackground": true
   },
   "nuphy-field75-noether": {
     "model": "Field75 Noether, original model",
-    "keyboardImage": "nuphy-field75-noether-keyboard.jpg",
+    "keyboardImage": "nuphy-field75-noether-keyboard.png",
     "themeImage": "nuphy-field75-noether-clink.png",
     "sourcePage": "https://nuphy.com.au/products/field75-wireless-mechanical-gaming-keyboard",
     "sourceImage": "https://cdn.shopify.com/s/files/1/0767/4622/8017/files/Field75_Hero1Noether_230317_1800x1800_c8d46b54-aaa7-4230-ab8f-c7dc8e36c55b.png?v=1705983481",
-    "description": "NuPhy inspired theme based on Field75 Noether, original model."
+    "description": "NuPhy inspired theme based on Field75 Noether, original model.",
+    "backgroundProcessing": "Local background removal from the original product image; keyboard detail retained.",
+    "transparentBackground": true
   },
   "nuphy-field75-he": {
     "model": "Field75 HE, first generation",
-    "keyboardImage": "nuphy-field75-he-keyboard.jpg",
+    "keyboardImage": "nuphy-field75-he-keyboard.png",
     "themeImage": "nuphy-field75-he-clink.png",
     "sourcePage": "https://nuphy.com.au/products/nuphy-field75-he-magnetic-switch-gaming-keyboard",
     "sourceImage": "https://cdn.shopify.com/s/files/1/0767/4622/8017/files/Main01v6cut_900x_a4e53cb4-8773-4f02-9e90-645bdf61702a.webp?v=1753678001",
-    "description": "NuPhy inspired theme based on Field75 HE, first generation."
+    "description": "NuPhy inspired theme based on Field75 HE, first generation.",
+    "backgroundProcessing": "Local background removal from the original product image; keyboard detail retained.",
+    "transparentBackground": true
   },
   "nuphy-kick75": {
     "model": "Kick75, low-profile stock caps",
-    "keyboardImage": "nuphy-kick75-keyboard.jpg",
+    "keyboardImage": "nuphy-kick75-keyboard.png",
     "themeImage": "nuphy-kick75-clink.png",
     "sourcePage": "https://nuphy.com/products/nuphy-kick75",
     "sourceImage": "https://cdn.shopify.com/s/files/1/0268/7297/1373/files/Kick75_Main01_v3.jpg?v=1766711868",
-    "description": "NuPhy inspired theme based on Kick75, low-profile stock caps."
+    "description": "NuPhy inspired theme based on Kick75, low-profile stock caps.",
+    "backgroundProcessing": "Local background removal from the original product image; keyboard detail retained.",
+    "transparentBackground": true
   },
   "nuphy-node75-lunar-white": {
     "model": "Node75 High-profile Lunar White",
-    "keyboardImage": "nuphy-node75-lunar-white-keyboard.jpg",
+    "keyboardImage": "nuphy-node75-lunar-white-keyboard.png",
     "themeImage": "nuphy-node75-lunar-white-clink.png",
     "sourcePage": "https://nuphy.com/products/nuphy-node-series-high-profile",
-    "sourceImage": "https://cdn.shopify.com/s/files/1/0268/7297/1373/files/NuPhy_Node_75_High-Profile_Lunar_White_v2.jpg?v=1766712202",
-    "description": "NuPhy inspired theme based on Node75 High-profile Lunar White."
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0268/7297/1373/files/Node75_Lunar_White_High-profile_ISO-UK.png?v=1776930184",
+    "description": "NuPhy inspired theme based on Node75 High-profile Lunar White.",
+    "sourceLayout": "ISO-UK",
+    "transparentBackground": true
   },
   "nuphy-node75-ink-gray": {
     "model": "Node75 High-profile Ink Gray",
-    "keyboardImage": "nuphy-node75-ink-gray-keyboard.jpg",
+    "keyboardImage": "nuphy-node75-ink-gray-keyboard.png",
     "themeImage": "nuphy-node75-ink-gray-clink.png",
     "sourcePage": "https://nuphy.com/products/nuphy-node-series-high-profile",
-    "sourceImage": "https://cdn.shopify.com/s/files/1/0268/7297/1373/files/NuPhy_Node_75_High-Profile_Ink_Gray_v2.jpg?v=1768817592",
-    "description": "NuPhy inspired theme based on Node75 High-profile Ink Gray."
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0268/7297/1373/files/Node75_Ink_Gray_High-profile_ISO-UK.png?v=1776930183",
+    "description": "NuPhy inspired theme based on Node75 High-profile Ink Gray.",
+    "sourceLayout": "ISO-UK",
+    "transparentBackground": true
   },
   "nuphy-node100-light-pink": {
     "model": "Node100 Low-profile Light Pink",
-    "keyboardImage": "nuphy-node100-light-pink-keyboard.jpg",
+    "keyboardImage": "nuphy-node100-light-pink-keyboard.png",
     "themeImage": "nuphy-node100-light-pink-clink.png",
     "sourcePage": "https://nuphy.com.au/products/nuphy-node100-low-profile-wireless-mechanical-keyboard",
     "sourceImage": "https://cdn.shopify.com/s/files/1/0767/4622/8017/files/NuPhyNode100Low-ProfileLightPinkv2F5F5F51800x.webp?v=1786082901",
-    "description": "NuPhy inspired theme based on Node100 Low-profile Light Pink."
+    "description": "NuPhy inspired theme based on Node100 Low-profile Light Pink.",
+    "backgroundProcessing": "Local background removal from the original product image; keyboard detail retained.",
+    "transparentBackground": true
   },
   "nuphy-gem80-cosmic-mocha": {
     "model": "Gem80 Cosmic Mocha + themed keycaps",
-    "keyboardImage": "nuphy-gem80-cosmic-mocha-keyboard.jpg",
+    "keyboardImage": "nuphy-gem80-cosmic-mocha-keyboard.png",
     "themeImage": "nuphy-gem80-cosmic-mocha-clink.png",
     "sourcePage": "https://nuphy.com/products/gem80-t",
     "sourceImage": "https://cdn.shopify.com/s/files/1/0268/7297/1373/files/CosmicMochaxThemedKeycapsBright_1800x_e87e4a17-2662-4151-8352-c81d154f6167.jpg?v=1744133403",
-    "description": "NuPhy inspired theme based on Gem80 Cosmic Mocha + themed keycaps."
+    "description": "NuPhy inspired theme based on Gem80 Cosmic Mocha + themed keycaps.",
+    "backgroundProcessing": "Local background removal from the original product image; keyboard detail retained.",
+    "transparentBackground": true
   },
   "nuphy-gem80-mystic-indigo": {
     "model": "Gem80 Mystic Indigo + themed keycaps",
-    "keyboardImage": "nuphy-gem80-mystic-indigo-keyboard.jpg",
+    "keyboardImage": "nuphy-gem80-mystic-indigo-keyboard.png",
     "themeImage": "nuphy-gem80-mystic-indigo-clink.png",
     "sourcePage": "https://nuphy.com/products/gem80-t",
     "sourceImage": "https://cdn.shopify.com/s/files/1/0268/7297/1373/files/MysticIndigoxThemedKeycapsv2_1800x_3dccb2b6-7167-4c58-a15b-20e464862535.jpg?v=1744133405",
-    "description": "NuPhy inspired theme based on Gem80 Mystic Indigo + themed keycaps."
+    "description": "NuPhy inspired theme based on Gem80 Mystic Indigo + themed keycaps.",
+    "backgroundProcessing": "Local background removal from the original product image; keyboard detail retained.",
+    "transparentBackground": true
   },
   "nuphy-bh65": {
     "model": "NuPhyX BH65",
-    "keyboardImage": "nuphy-bh65-keyboard.jpg",
+    "keyboardImage": "nuphy-bh65-keyboard.png",
     "themeImage": "nuphy-bh65-clink.png",
     "sourcePage": "https://nuphy.com/products/bh65",
     "sourceImage": "https://cdn.shopify.com/s/files/1/0268/7297/1373/files/BH65-1.png?v=1768371458",
-    "description": "NuPhy inspired theme based on NuPhyX BH65."
+    "description": "NuPhy inspired theme based on NuPhyX BH65.",
+    "backgroundProcessing": "Local background removal from the original product image; keyboard detail retained.",
+    "transparentBackground": true
   }
 }

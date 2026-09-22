@@ -14,13 +14,18 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - run: python3 -m unittest discover -s tests
+      - name: Run local tests when included
+        run: |
+          if [ -d tests ]; then
+            python3 -m unittest discover -s tests
+          fi
       - run: python3 tools/build-manifest.py
       - name: Publish immutable assets
         env:
           GH_TOKEN: ${{ github.token }}
         shell: bash
         run: |
+          shopt -s nullglob
           assets=(Themes/*.clinktheme Images/* manifest.json)
           tag=$(python3 -c 'import json; print(json.load(open("manifest.json"))["version"])')
           if draft=$(gh release view "$tag" --json isDraft --jq .isDraft); then

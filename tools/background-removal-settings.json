@@ -1,0 +1,13 @@
+{
+  "nuphy-field75-noether": {
+    "sourceSHA256": "63f26b5dc354c512e98fbd6e3628aed98eb54fdf57fa5f5096263eb04ed3aee8",
+    "tolerance": 0,
+    "note": "Lossless 1800px original: pale outer keycaps differ from the flat background by only a few levels. Remove only the exact border colour before edge matting.",
+    "backgroundSeeds": [
+      [
+        440,
+        1290
+      ]
+    ]
+  }
+}
